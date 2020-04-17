@@ -1,0 +1,54 @@
+      Artificial Intelligence, and its many implementations, is growing in our world. With the 
+many ways it could advantageously improve our societies, it is no wonder that researchers have 
+been studying the possibilities. In the One Hundred Year Study of Artificial Intelligence, the 
+panel was largely optimistic about where artificial intelligence in the healthcare field was 
+headed; however, there are some concerns about AI’s consequences that seemed to have only 
+been briefly touched upon. As beneficial as AI could be in healthcare, concerns of privacy and 
+negative impacts of doctors and other medical professionals relying on this technology need to 
+be looked at further. Challenging this study, AI could be more of a hindrance than a help when it 
+comes to certain healthcare technologies.
+
+	Looking at the many implementations of AI in healthcare, the panel argues that AI could 
+be used for many different things including automated image interpretation which could cut 
+down on diagnosis time and help with accuracy. However, Komorowski and Celi (2017) bring 
+up that this could lead to overdiagnosis; “the detection of an actual disease …that, if it had 
+remained undetected, would not have affected a person’s life.” This could lead to “patient 
+anxiety, the harm from further testing and unnecessary treatment, and the opportunity cost of 
+wasted time on the part of both patient and provider and healthcare resources that could be better 
+used to treat or prevent genuine illness” (p. 2). It is consequences like these where the idea of the 
+technology is to be helpful, but unforeseeable costs pop up and create more harm than should.
+
+      Privacy is a huge concern in our society. Especially with protecting individual’s medical 
+records and information, it is essential that individual’s rights according to HIPAA are 
+maintained when creating AI technologies in healthcare. The regard that the study panel seems to 
+have for privacy protection, like for HIPAA, is concerning. By downplaying these types of 
+policies, they write, “Unfortunately, … there are many remaining barriers to rapid innovation. 
+HIPAA … requirements for protecting patient privacy create legal barriers to the flow of patient 
+data to applications that could utilize AI technologies” (p. 27). The rhetoric they use here 
+insinuates that these protections are in the way of creating these important technologies. Rather, 
+there should be equal emphasis on the importance of both matters. Besides these policies, there is 
+also concern with privacy when these technologies are being utilized. These “technological 
+developments ‘pose challenges for a consent model of data collection,’ and may lead to an 
+increase in data privacy risks ... For example, decision-making machines may be used to 
+‘engender or manipulate the trust of the user,’ and would be an ‘all seeing, all remembering in-
+house guests,’ that would collect personal data via numerous sensors” (Gardner, 2016). The issue 
+of privacy is not just about keeping individual’s information private. It is also about making sure 
+people are aware of the aspects of allowing their information to be used and what that means for 
+them and their privacy.
+
+      Overall, AI could be very useful in the healthcare field. However, the negative 
+consequences of AI technology and privacy concerns could do more harm than it should. As 
+much as the panel wants to get this AI technology out and into healthcare fields, more attention 
+needs to be paid to how things like privacy could be impacted and the possible negative 
+consequences produced by these technologies.
+      
+      
+
+      
+References
+
+Gardner, S. (2016, Oct 19). Artificial Intelligence Poses Data Privacy Challenges. Retrieved 
+      from https://www.bna.com/artificial-intelligence-poses-n57982079158/
+Komorowski, M. A., & Celi, L. (2017). Will Artificial Intelligence Contribute to Overuse in 
+      Healthcare?*. Critical Care Medicine, 45(5), 912-913.
+

@@ -1,0 +1,31 @@
+	I personally feel that the Stanford One Hundred Year Study on Artificial Intelligence as a whole
+is, generally speaking, an extremely informative and thoughtful paper. The authors seem very well
+educated and confident in their insights and predictions. As such, at this infant stage of my studies 
+in the field of Artificial Intelligence, I feel that there are very few things written in this study 
+that I can dispute or take issue with. However, one claim that I am skeptical of is that most major
+metropolitan cities in America will be primarily using self-driving cars by 2030. There are a few 
+reasons that I feel this way.
+	The first is that I believe it would take too long to replace so many cars with self-driving
+alternatives. Take, as an analagous example, the concept of converting to renewable energy sources from
+fossil fuels. Granted, this isn't a one-to-one analogy, but I feel that the base concept rings true. Even 
+though we have the technology to achieve this goal, and the benefits would be astronomical, there are so
+many smaller hinderances that it becomes a exponentially harder task. On top of dealing with the cost and
+construction, the transfer of jobs, and the general overhaul of our infrastructure, we would have to work
+around those who would seek to perpetuate the burning of fossil-fuels for their own financial benefit. I
+feel that there are plenty of people who are likewise invested in manually driven cars, and the
+infrastructural impact would likewise be massive, to the point where I find full deployment of self-driven
+cars by 2030 to be a grossly optomistic estimate.  
+	Besides the logistical hinderances, I also feel that there are many people who would simply rather
+continue driving their car manually. The Study broaches the matter of public trust in A.I., and I
+believe it is correct in its assumption that people will slowly come to trust it more and more in coming
+decades. In this case however, I believe that it's not a matter of trust, but a matter of preference. I 
+can absolutely envision other countries making the switch without too much hesitation, but I feel that 
+Americans have romanticized the concept of the automobile, and of "freedom on the open road," to the point
+where I believe that many people will refuse to switch simply because "that's just not how cars are 
+supposed to be."
+	Essentially what I'm trying to say is that it's not a matter of whether or not the technology has 
+sufficiently matured, so much as it is unreasonable to expect society to change in such a drastic way in 
+so short a time frame. If they were to make their estimate a couple of decades later - say 2040 or 2050 -
+then I'd me much more likely to agree. Furthermore, I think a big qualifier is that this study is focusing
+on America. If they were to make this estimate regarding Japan, Switzerland, or some other country with a
+solid infrastructure, it would seem a lot more feasable.

@@ -1,0 +1,30 @@
+	Stanford One Hundred Year Study on Artificial Intelligence mostly introduces Artificial Intelligence 
+from computer scientists’ perspective and describes the authors’ idea about how Artificial Intelligence may 
+develop in the future 15 years. However, there are two aspects that I find hard to agree with: the possibilities
+of AI being biased, and who is going to be responsible if AI breaks the law.
+	In the report, the authors write about the possibility of AIs having biases and mentions three factors. Data 
+AI uses to make the decisions, AI’s designer, and users. The first one is understandable since anyone could have biases,
+and as the authors mentioned in the report, it’s still a challenge to ensure the data provided to the AIs are non-biased.
+However, the latter two, are total avoidable. For the designer factor, companies and research institutions can totally 
+hold regular educational sessions, make specific rules for the possible bias, and arrange rounds of peer code reviews to 
+make sure there isn’t any bias exists in the Artificial Intelligence applications. The designer factor is just about 
+institutions’ regulations rather than a computer science related challenge. And the possible bias that could cause by 
+users is also just a problem with how people use it rather than a technical problem. If the AI is used for institutions 
+or governments, there is no doubt that they would regulate and make rules about the usage of AI, it’s just going to be 
+problems with how to sort out the non-biased data rather than human-caused problems. AI need huge amount of data to make
+decisions so the possible cause of Artificial Intelligence having bias is just going to be about the data, rather than 
+users or designers. And if that technical challenge is solved, then at least from computer scientists’ perspective, they 
+do not have to warry about biases anymore.
+	The question about who is going to be responsible for the possible illegal behavior of AI is a more complicated problem 
+than the authors mentioned. For start, when designing the AI, there must be regulations that prevent AI from breaking the 
+laws, even in the future, when AI could “study” and make decisions based on its cumulated understandings, the restriction 
+must still exist. Like normal people, they grow up, and learn from their daily lives. In some situations, they may want to 
+break the law, for right or wrong purposes, but most of them still won’t choose to break the law since the law is a code that 
+everyone keeps in their mind, well most people in the world do. Human obey the law for their conscience and fear of punishment.
+And the restriction for AI is more still, it’s solid code. So, even in rear situations where AI do break the law, it should be 
+problem with the user, or original code. But if it’s the latter situation, then not only does the programmers need to take 
+responsibility, who ever let the AI application passed the tests and put into use should also take responsibility. So, if that 
+kind of situations where AI do break the laws happened, it’s not hard to find who should be responsible since everything done by 
+a machine should already been recorded. So that should not be something stand in the way of AI’s development.
+	That's the two aspects I have disagreement with. But mostly I have the same believe as the authors have, that AI is going
+to develop real fast in the future and eventually be an important part of society.

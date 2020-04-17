@@ -1,0 +1,49 @@
+Challenge: In the article, "One Hundred Year Study on Artificial Intelligence", the
+topic of artificial intelligence integration with healthcare is expanded
+upon in a manner that downplays the current quality of the healthcare sector, 
+and does not focus on the practical needs and issues of medical professionals.
+  
+  The article asserts that regulation and "structural barriers" in healthcare
+are the factors preventing artificial intelligence technology from making an
+impact, and that this impact is "largely unrealized" (26). While there might
+not be an issue with the logical benefits of the innovative technology, the
+article seems to be implying that the healthcare sector is itself dated and
+archaic in its practices, and must make use of the incoming artificial
+intelligence technology to progress. It is here that the article also undermines
+the already demanding and stressful duties placed on healthcare professionals.
+
+  Although the article continuously implies that it is reasonable for the
+healthcare sector to be wary of new changes due to the highly volitile
+environment that exists, there does not seem to be an understanding for the
+need to be dynamic and flexible with regards to providing medical care.
+When discussing robotics, there is mention of how any robots placed will not
+be fully automated in hopes of aleviating any stress over troubleshooting or
+control issues. However, the article then states that it is trivial to have
+robotics assist with patient travel, but only if the patient can stand in a
+walker; any of those who are recovering from surgery or are of an old age will
+have a more difficult scenario (28-9). This example presents a case of limited
+functionality, where in which it might not be necessary to have robotics
+dedicated to such intimate actions with patients.
+
+  In the clinial environment, it can be seen that a primary care
+physician diagnosis of a patient's condition is in competition with software
+that can perform a similar task. What the article is asserting is that there
+should be no question of the physician's skill; the software is merely a
+suppliment to the physician and patient, and should be used in conjunction
+with the physician's own expertise. What could arise, however, is a
+disgreement between the patient and the physician. The patient, who might not
+be as educated with respect to artificial intelligence and medicine, might
+very well trust the software's result over the physician's, and attempt to
+verify the software's decision by exaggerating certain symptoms and
+circumstances. This would result in more effort on the physician's part to
+provide evidence and details, which may or may not result in success.
+
+  In general, any existing technology being integrated with healthcare
+systems will already pose a higher learning curve for medical professionals,
+whose focus is stricly medical related. Additionaly, technology advancements
+could potentially inhibit the professional from maximizing efficiency in the
+workplace; this was exemplified in the case of the physician's status versus
+the software's status in the eyes of the patient. At the same time, if the 
+technology being introduced is highly specialized, then there is the question 
+of the effectiveness of exisitng medical practices versus the practicality of
+the new technology.

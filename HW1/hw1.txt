@@ -1,0 +1,22 @@
+CS 540 - Spring 2018
+HW1: Rejoinder
+Roumen Guha
+
+This paper will focus on the importance of the following: what about systems that aren’t immediately life-threatening, but instead determine options to human lives in some long-term way, such as predicting the chances of an incarcerated individual re-offending, or such as an algorithm used to determine loan rates for someone who has had to declare bankruptcy in the past. Though the paper makes passing mention to these applications (pages 37 and 46), they do not stress enough the tremendous amount of effort it will take to build such systems. 
+
+Where automation used to be restricted in application and setting such that they could only be found in laboratories and factories, they can now be found in households, with the Roomba, and more terrifyingly, in autonomous vehicles. However, consider applications of intelligent systems being used in settings where they can affect peoples' lives in long-term, negative ways. 
+
+For example, a system responsible for filtering out poor applicant fits to a job position, especially since it is statistical in nature, and there is much more variance present in this setting. For example, it is easy to imagine some charismatic individual who has previous work experience in the service industry, trying to make a career shift into advertising, marketing or sales. It is likely that such a person would do well, given a little time to improve, but as humans, this is obvious to us. In the cases of a crime-predicting classifier, or of a loan-viability classifier, these issues are not as procedural as driving. In driving, the environment is almost entirely known, with the plethora of sensor data available to the system, with reactionary measures taken when sudden changes occur in the given environment. Instead, for a poorly trained classifier trained on some template of an ideal candidate instead of on character attributes (which are far more difficult to surmise from a résumé), this will hinder that individual's passion, and make their life much more difficult if this technology (and its failing) is commonly applied. Imagine the same thing for someone who has had the misfortune to declare bankruptcy in the past, or of a formerly convicted criminal who is looking to live more lawfully. Yes, the classifiers are cheaper than humans in the long-run, and statistically, they may perform better, but they are complex to build and harder to adapt to human rules, and mistakes in them affect far more people than those who built them. These systems generally lack the human ability to learn and adapt as they age, and unless thoughtfully applied, they generally contain natural biases, shared unconsciously by their human creators so they affect different groups of people unfairly, creating negative externalities unconsciously. 
+
+References:
+
+1. Peter Stone, Rodney Brooks, Erik Brynjolfsson, Ryan Calo, Oren Etzioni, 
+Greg Hager, Julia Hirschberg, Shivaram Kalyanakrishnan, Ece Kamar, Sarit Kraus,
+Kevin Leyton-Brown, David Parkes, William Press, AnnaLee Saxenian, Julie Shah, 
+Milind Tambe, and Astro Teller.  "Artificial Intelligence and Life in 2030." 
+One Hundred Year Study on Artificial Intelligence: Report of the 2015-2016 
+Study Panel, Stanford University, Stanford, CA,  September 2016. 
+Doc: http://ai100.stanford.edu/2016-report. Accessed:  September 6, 2016.
+
+2. Roumen Guha. "Final Reflection Paper:  Social and Ethical Implications of Robotics".
+Submitted to: Prof. Peter Adamczyk for ECE 439, Fall 2017. 

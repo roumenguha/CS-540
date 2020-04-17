@@ -1,0 +1,34 @@
+Artificial Intelligence is defined as the ability to make machines intelligent, such that, 
+they can function appropriately and anticipate and adapt to their environment. AI has advanced
+in many fields such as healthcare, transport, education, employment and workplace, and at
+the workplace. The Stanford AI report states that self driving cars will become common on the
+roads by 2020. According to me, this is not possible and it will take many more years for 
+various reasons. Firstly, rules have not been stated regarding who bears the burden if
+a self driving car crashes. Companies would have to face huge burdens if only they are the victims 
+of the lawsuits, and this would lead to stifling innovation and confidence in self driving cars.
+According to author, Phillip Tracy, American roads aren't ready for self driving cars because
+of the obsolete infrastructure problems that have existed for more than 40 years. Volvo
+cars failed tests at the Los Angeles Auto Show because the car couldn't detect the lines on the 
+road as they had faded away. Research scientist, Christoph Mertz, believes if the lines fade
+away in any time of the year, cars would be very prone to accidents. According to the
+U.S. department of transportation, 65 percent of the U.S. roads are in poor condition. Weather conditions 
+could also play a fatal role with self driving cars. Direct sunlight on the signals can confuse the cars.
+An accident caused the death of a man last year in his Tesla Model S car because the cars couldn't
+detect the side of the truck in direct sunlight and drove under the trailer. The report also 
+talks about transportation companies like Uber and Lyft who have helped in making transportation
+easier and introduced carpooling. These companies have increased employment opportunities for
+drivers but the introduction of self driving cars could cause a major rise in unemployment
+in every country. Then there is a cyber threat which can be dangerous in every field. If a hacker takes 
+over a driving car, he can easily do anything with the car, putting the passenger at a huge risk. 
+These hacks might be untraceable if the car gets damaged so terrorism threat would be larger in 
+many countries that are prone to such attacks. Artificial intelligence has also made advances in 
+the field of education in the past fifteen years. The report states that teaching robots 
+have now been implemented to teach children.There is no guarantee if the children actually 
+concentrate in class because they know it's a robot which is teaching them. Human connection
+ while teaching is sometimes very important for children and robots might fail to understand 
+ what the children are feeling and what they are going through. Integrating robot teachers 
+ in the field of education would also lead to unemployment in the field and teaching as a 
+ profession would take a huge hit. Although AI can be a huge boon for us, most of its aspects
+ have many challenges which would stifle the technology more and delay it. It will be interesting
+ to see how Artificial Intelligence manages to become a permanent part of the most important 
+ fields and how people adjust to it.

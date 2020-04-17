@@ -1,0 +1,30 @@
+  In Stanford’ one hundred years report of artificial intelligence(AI), the Study Panel analyzes current use and future of AI. The committee believes that AI has been employed in many areas and are designed to finish many specialized work previously done by human. AI in the future will become more human-aware and trustworthy. However, the committee makes relatively positive prospect on AI and ignores some current issues. First of all, the current state of AI has not been so perfect that AI researchers could progress to make it human-interactive. Furthermore, even if disadvantages of current AI design were modified, the increasing speed of AI will not be as beneficial as the Study Panel assumes.   
+  First of all, simple AI design through computer software are not independent enough and ready for make interactions with humans in the future. The study states that present AI are designed to finish specialized tasks. Those designs are through long-termed research and careful construction (p.7). The Study Panel believes that the simple design of AI has fulfilled most basic human tasks. Therefore, the field is shifting from simply building systems that are intelligent to building intelligent systems that are human-aware and trustworthy.  (p.14). However, the presumption that simple models of AI are very mature is not believable. For example, the robotics in home service are able to clean house. However, they could not work independently without human care and improve with experience (Reddy, 2017). It means that robotics will bumper into same barriers over and over again and humans have to spend same amount time supervising them. They can hardly vacuum your living room without direction from human let alone take over the world – and reports that the famous Turing test for AI has been passed are greatly exaggerated (Lafrance, 2016). Also, in data analysis, even though AI could analyze data automatically, human still have to spend enormous time uploading, backing up data. These are all basic and required tasks for AI to consider before making it more human-aware. Therefore, there are still more modifications to present AI before making prospect of its more complex and brilliant tasks.
+  In addition, AI actually has potential threats to humankind with continual growth over time. The Study Panel found no cause for concern that AI is an imminent threat to humankind (Stanford, 2016). It is true that it saves human time with AI doing tedious and repetitive tasks. While according to “law of accelerating returns”, when the rate at which technology improves is proportional to how good the technology is, as point might be reached where this process leads to wholesale and irreversible changes in how we live (Seth, 2014). Also, according to Bostrom, if one thinks of intelligence as a quantifiable unit then this acceleration will continue and move past the (small) space that marks the intelligence of humans. So, we will reach ‘superintelligence’ defined as “any intellect that greatly exceeds the cognitive performance of humans in virtually all domains of interest” (2014, p. 22). From many theories, it is obvious that the continual increasing growth of AI will eventually reach a point when human intelligence are not able to reach.
+  In conclusion, even though the hundred-year study of AI demonstrates a lot of useful employment of AI in many fields and thus reach a promising future of AI. With close examination of present so-called “AI” and many theories proposed by experts, AI may not be so dependable and requires more modifications.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Reference
+
+Seth, A. Dec,2014. Why we must not stall technological progress, despite its 	threat to humanity. Retrieved from: https://www.theguardian.com/	commentisfree/2014/dec/03/technological-progress-stephen-hawking-ai-	artificial-intelligence
+
+Gorhil, H.  2017. New Trends in Artificial Intelligence & Machine Learning. 	Retrieved from: www.datasciencecentral.com/profiles/blogs/a-sneak-	peek-at-the-future-of-artificial-intelligence-the-newes-1
+	Bostrom, N. (2014). Superintelligence: Paths, dangers, strategies. 	Oxford: Oxford University Press. 
+
+Reddy,K. 2017. Advantages and Disadvantages of Artificial Intelligence. 	Retrieved from: https://content.wisestep.com/advantages-		disadvantages-artificial-intelligence/
+
+Lafrance, A. May,2016. What Is a Robot? Retrieved from: https://		www.theatlantic.com/technology/archive/2016/03/what-is-a-human/		473166/
+

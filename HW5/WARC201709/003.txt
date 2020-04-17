@@ -1,0 +1,54 @@
+                          Homework-1
+
+  The authors of the paper, "Artificial Intelligence and Life in 2030",
+discuss the findings 2015 study panel report of the One Hundred Year
+Study of Artificial Intelligence, predicting how recent, as well as
+ongoing advances in the various fields that Artificial Intelligence (A.I.)
+is comprised of will affect and formulate society in 2030. They discuss
+how Machine Learning, Natural Language Processing, Computer Vision and
+various other fields within A.I. will alter the ways in which machines and
+humans interact, and how machines, as they develop “intelligence”, can be
+integrated in our day to day lives to an even larger extent. However, one
+important factor that I feel the authors do not give enough importance to while
+predicting the future affect of Artificial Intelligence as a field is the fear
+that people have of machines becoming “intelligent” might end up worsening the
+quality of life that they will live, as they might end up losing their jobs to
+more efficient machines. The fact that people do not trust these machines might
+lead to the technology facing resistance, especially when it is being deployed
+for extremely personal and intimate tasks such as the personal care industry where tasks include aiding care for the elderly.
+
+  There are a variety of reasons why incorporating AI in such personal tasks might
+face resistance from large sections of the population, and therefore the
+predictions made in the paper might not come to fruition by 2030. First,
+elderly people, for whom these machines will be designed might not be very
+familiar with the technology being used. The authors mention that most people
+who would require personalized care would not have experienced the personalized
+and ubiquitous forms of technology that exist in today’s day and age before
+their middle ages. This would mean that they are relatively less familiar with
+the technology that is being used to perform personal and intimate tasks for them,
+and as a result they would be less likely to trust those machines. If people do
+not trust the machines that are designed to take care of them, they will be
+reluctant to adopt the technology. So, even if the technology is widely
+available for people to use, they may choose not to use it.
+
+  Another reason why we might find it harder to incorporate AI products in the
+personal care industry is because personal care has more of an emotional element
+associated with it compared to other fields in which AI can (or will) be applied
+and the effectiveness cannot be solely quantified in terms of efficiency with
+which the machine does certain tasks. Human emotions such as empathy play a huge
+and vital role in the personal care industry. Therefore, even if a machine
+(or robot) can be trained using state of the art technology to perform a task
+with near flawless accuracy, it would still not be able to effectively do its
+job if it doesn’t emotionally understand and support the people it is being used
+to care for.
+
+  Moreover, as the authors discuss in the paper, even if AI products are being
+deployed in the personal care industry, they will not be able to offer human
+company to the people they serve. Human company provides people with emotional
+support and upliftment as well as a sense of belonging. These are some things
+which AI based products may not be able to overcome in the immediate future.
+
+Bibliography: 
+
+1) Artificial intelligence and life in 2030, A Hundred Year Study on Artificial Intelligence, September 
+   2016.

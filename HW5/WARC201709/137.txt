@@ -1,0 +1,39 @@
+	Over the past twenty years, health records have moved from paper to Electronic Health Records 
+(EHRs).  If a patient suffers a medical emergency away from home, the hospital they are taken to can 
+request their information from their usual health care provider.  If a patient is given a drug in the 
+emergency room and then taken to an operating room, the anesthetist can be warned before 
+administering a dangerous overdose of the drug.  But most importantly, EHRs have created the large 
+dataset needed to fuel research advancements, the data needed to create a breakthrough in patientcare 
+through AI.  However, the authors of the “Stanford One Hundred Year Study on Artificial Intelligence” 
+quickly dismiss EHRs, blaming clunky user interfaces complete with “annoying popups that physicians 
+routinely dismiss”.  This is an unfair criticism; it is hard to fathom that the systems are clunkier and more 
+annoying than the thick folders of patient data that were passed around before EHRs.  In reality, EHRs 
+are the backbone of nearly every healthcare benefit they predict AI will provide in the next fifteen years.
+	The paper predicts advancements from “AI’s ability to mine outcomes from millions of patient 
+clinical records”.  Well, there would be almost nothing to mine if it were not for EHRs.  EHRs collect all of 
+the data and store it in a database that makes data mining possible.  In fact, the paper specifically 
+mentions the water crisis in Flint, and that crisis was actually first identified from a report built on EHR 
+data.  The predictive models being built to prevent future water contaminations and other healthcare 
+crises are likely heavily reliant on EHR data.
+	Next, the paper foresees a breakthrough in healthcare image recognition by AI, specifically for 
+performing diagnoses. While the technology to perform a diagnosis from an image is not from EHRs, 
+EHRs are partly responsible for its advancement.  EHRs have driven the digitalization of images so that 
+they can be easily accessible from the system, which created the dataset necessary to develop AI image 
+recognition.  The paper states an obstacle to image recognition development is that only very large 
+organizations can develop it because of the barriers to data sharing in healthcare.  However, EHRs and 
+third-party organizations are currently building research databases comprised of the data from their 
+community members.  These efforts will make it possible for this technology, and others, to develop 
+outside of a large organization.  EHRs have undoubtedly made a large impact in healthcare image 
+recognition.
+	Finally, the paper mentions the benefit of mobile applications, from “a new generation of tech 
+savvy clinicians” utilizing specialized mobile applications to the population as a whole employing mobile 
+applications to do things like find similar health populations or tell them when to exercise.  EHRs are 
+largely responsible for this benefit.  EHRs provide their own mobile applications and offer APIs that 
+allows other applications to access the EHR database.  The young clinicians and the rest of the 
+population are likely either directly using an EHR application or using an application that take advantage 
+of an EHR database. EHRs are a critical part of the healthcare benefits from mobile applications.
+	While some criticism of the user interface of EHRs is fair, the paper ignores the large benefits 
+that the systems currently provide and the fundamental role that EHR data will provide in the 
+advancement of healthcare.  Already, EHRs have brought AI into nearly every part of hospitals, and the 
+future of EHRs and AI will be intertwined in the next fifteen years.  The authors should have credited 
+EHRs for advancing AI, not blamed them for holding it back.

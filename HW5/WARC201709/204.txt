@@ -1,0 +1,48 @@
+      The Stanford 100 Year Study on Artificial Intelligence provides an in-depth look into how 
+the top Artificial Intelligence (AI) professionals believe AI should be implemented. Though the 
+report does touch on the importance of democratically implementing AI in order to benefit 
+everyone equally, this will be difficult to accomplish without stern government regulation. Elon 
+Musk recently addressed AI’s potential risks by saying, if left unchecked, AI “will follow the will 
+of people that establish its optimization function, and if that is not well thought out, it could 
+have quite a bad outcome."
+      Economic inequality has only gotten worse in recent years. the top 1%, on average, earn 
+three times as much, today, ($1.3mil) as they did in the 1980’s, while the bottom 50% of the 
+American population earn an average of $16,000 (which hasn’t risen in over three decades). 
+Without the government regulating how corporations implement AI, nothing would stop them 
+from using AI to continue widening this economic gap.
+      Furthermore, the types of jobs AI will replace first aren’t the most glamorous, but they 
+do currently allow people to make a living. The authors of the report claim that they, “see AI as 
+replacing tasks rather than jobs, while also helping to create new kinds of jobs.” While it is true 
+that AI will produce a lot of high-level tech jobs, it will be hard for entrenched professionals to 
+pivot into a new job if they’ve been replaced by AI. Truck drivers are a prime example. Truck 
+drivers commonly have very few transferable skills; when they are inevitably replaced by 
+autonomously driven vehicles these drivers will be forced into a job market that sees no 
+value in their past work experience. It doesn’t stop there either, receptionists, librarians and 
+even highly regarded professions such as radiologists will face the potential of being 
+displaced by AI. 
+      So what happens to these displaced workers? Surely some will be able to pivot into 
+new jobs, but those who can’t will become unemployed. When this reality settles in, those 
+who have been displaced will develop a distrust of AI because they will feel as if AI has 
+robbed them of their ability to make a living. Combine that with the fact that a considerable 
+portion of the public already distrust AI, and this could lead to serious morale issues 
+regarding funding and implementation of AI. This distrust is exactly what the Stanford AI 
+project set out to improve.
+      Thankfully, one of the main goals of a government is to create jobs for its citizens. 
+Programs to help teach displaced workers new and valuable skills is one way to help ease the 
+transition to AI. Additionally, government regulation can help mitigate job displacement by 
+finding new value in human labor to create new jobs that AI can’t replace. It’s hard to say for 
+sure what these jobs will be, but experts predict that implementing AI will require new jobs 
+regarding, sensor technology, “managing corporate social media plans, creating new 
+products, improved user interfaces, novel devices and fresh ideas.”
+      Finally, the government must ensure that the power of AI is used for the good of all. 
+The implementation of AI is inevitable, it’s up to the government to ensure that the right 
+people are in charge of democratically implementing this powerful technology.
+
+http://money.cnn.com/2016/12/22/news/economy/us-inequality-worse/index.html
+
+https://www.usatoday.com/story/tech/talkingtech/2017/07/17/musk-government-needs-regulate-
+artificial-intelligence/484318001/
+
+https://blog.hubspot.com/marketing/jobs-artificial-intelligence-will-replace
+http://www.pewinternet.org/2014/08/06/future-of-jobs
+

@@ -1,0 +1,37 @@
+	This review challenges the articles claims that advancement in AI will reduce interpersonal 
+interactions, that AI cannot displace active human teachers in education, that in the field of health 
+care people and machine will collaborate, and that the current method AI synthesis can be void of bias.
+	The study panel claimed that the next generation is increasingly spending more time on their 
+devices and are excluding themselves from social interaction. That is only partially correct, and it is 
+not the fault of technology but the usage. People who are taught to use technology as a form of resource 
+use it interactively with other members of society while next generation who began using technology for 
+entertainment use it extensively in solitude to pass time. From experience, college students tend to 
+categorize their devices into productivity and entertainment. Productivity usually includes collaboration 
+with others while entertainment is used to share with others of similar interests. Face to face 
+interaction may decrease but the amount of time associating with people more like oneself has increased. 
+	The second challenge is to the statement that human teacher will always be part of the education 
+system. The current education system places too much reliance on the abilities of the teacher to be able 
+to accommodate the needs of many students. A sufficiently adapted AI will be able to monitor the 
+individual students and adjust separately while a human instructor will introduce bias and unnecessities 
+into the classroom. The teacher can work side by side with technology but it is not the most efficient 
+way in the perspective of a student, nor is it in the interest of the individual students. Human teachers 
+will act more on experience and should that contradict the AI’s decision then that will result in 
+inefficiency and the students will be the ones affected. In effect, it would be more logical to fully 
+integrate AI into the education system as the main tool for teaching.
+	Similarly, to the last challenge, this one states that in the field of health care physicians 
+will collaborate with machines. In simplistic perspective, machines are far more precise than a human can 
+be with the 5 senses. A person may be able to intuitively diagnose a patient but AI with a vast data base 
+can perform just as well, maybe even better. With the precision and logic of a machine as well as the 
+availability of said AI after development, there is no reason to maintain physicians with higher error 
+rate. 
+	The last challenge is the overall assumption that AI will be fundamentally logical and objective 
+in situations where a human would. Much of the current AI training relies on statistics and sample size, 
+which is collected and selected by personals with biases. Even devices built to collect data will 
+introduce bias from the developer or even the distributor. By developing AI using a human mind we are 
+introducing bias to the system. 
+	Since most of the article was describing the state of AI in 2030, their claims would stand but 
+their basis of AI would be under question. With the current AI technology, considering of advancements in 
+the field, it would be hard to categorize the technology as AI since data interpolation is not the same 
+as the intelligence of a human mind which was the bench mark for AI. 
+
+

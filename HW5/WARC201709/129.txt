@@ -1,0 +1,34 @@
+HW 1 - Intro to Artificial Intelligence
+
+Transportation
+
+"..on time pickup and delivery of people and packages. This alone will reconfigure the urban landscape, as traffic jams and parking challenges become obsolete" [1]
+
+The concern with the above statement lies with the certainty of the statement. The paper assumes that wider adoption of self-driven, possibly shared transport models will reduce the ownership numbers. Some reasons why this may not manifest certainly over the target of next 15 years are:
+
+- Even though shared transportation models offer a pool service in some areas, people may not prefer sharing the ride with co-passengers owing to privacy concerns. Companies eventually have to commission more cars on the road to improve adoption - a situation which won’t help with traffic jams.
+
+- Carpooling services offered by Uber, Lyft, and others, have failed to gain a lot of traction [2]. It is not clear how these services will adapt to the future and eventually gain traction to hopefully reduce the ownership numbers.
+
+- I believe the general population will not completely give up ownership of existing cars due to the possibility of shared transport not being completely reliable at all times and situations. For example, long distance commute still requires ownership of a car, and it is not clear how companies such as Uber, Lyft, etc. will address the long-distance commute problem in the North American context.
+
+- The paper does not deal with the environmental consequences of new transportation models which might result in increased energy consumption as the number of vehicles and intelligent devices aiding in moving people and packages increases. Due to these consequences, there may be regulatory hurdles by respective governments which could hamper the adoption of the new transportation models.
+
+Technology & Content Creation [3]
+
+The paper seems sure about “sophisticated tools and apps” [3] which will help an amateur easily produce high-quality content.
+
+- In my opinion, the success of content creation depends on creativity and novelty - qualities which are not the scope of AI, at-least in the next 15 years. Content producers will still have to continue relying on video cameras and audio recorders to generate the base content upon which an existing or future tool/app can work on. The argument that tools and apps will ease the production of quality content does not stand because content production would continue to demand a significant chunk of production time. Moreover, it is not clear how in the next 15 years, the novelty divide between human generated content and artificially generated content will be bridged. The phrase, “relatively good movie”[3] is vague at best which neither quantifies content quality nor provides any comparison standards.
+
+Distribution of Wealth Creation [4]
+
+The paper does not elaborate on how the monetary benefits generated due to AI goodness will be distributed to the society. There are many reasons why this may not manifest
+
+- Stakeholders of a research project which leads to a beneficial AI technology could argue that the benefits be distributed only among themselves as they pour in investments at the early stages and not among the enablers or workers affected or replaced by the AI technology.
+
+- If it is clear that the benefits should be shared among the general population, it would be a complicated situation to determine the exact percentages to be shared per individual, while being transparent about the distribution process. 
+
+[1] Section “Overview,” p6
+[2] Section “On-demand Transportation,” p23
+[3] Section “Imagining the Future,” p41
+[4] Section “Overview” under Employment and Workplace trends, p8

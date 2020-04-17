@@ -1,0 +1,25 @@
+The One Hundred Year Study seems to suggest that the general public has a negative perception of AI. Also, in the study they suggest that 
+all layers of government should gain technical expertise in AI and then they will be able to make informed decisions on AI that benefit society. 
+I want to challenge both of these aspects of the study. I feel that in general the public is optimistic about the future of AI and that it would not
+be feasible for all layers of the government to gain technical expertise in AI and even if they did, they would not be able to stay up to date with
+current research.
+
+Throughout the study they mention several times that the majority of the general public doesn't trust AI and that public trust has to be gained for 
+the field to grow. In a study conducted by Northstar Research Partners Ltd on behalf of ARM, 61% of the respondents said that they feel society will 
+become better due to AI and automation. In the study they also found that currently over half the respondents would trust an autonomous car to drive 
+their family if accident rates were demonstrably better and 70% would trust an autonomous car to drive their car by 2027. In June 2016, Weber Shandwick 
+and KRC Research surveyed 2,100 consumers online in five global markets (the U.S., Canada, the UK, China, and Brazil) on their feelings about AI. In 
+their study they found that 52% of the respondents said AI will have a positive impact on their lives. In the same study they found that two-thirds 
+or more said they would trust AI with handling medication reminders, travel directions, entertainment, targeted news, and manual labor and mechanics 
+and more than 50% of respondents trust AI to provide elder care, health advice, financial guidance, and social media content creation. The results of 
+both these studies shows that even though not everyone is aware of the intricacies of AI, the public perception of AI is positive and not heavily 
+influenced by the portrayal of AI in movies.
+
+Another aspect of the study that I want to challenge is the suggestion that if all layers of government gain technical expertise in AI, they will be able
+to make decisions regarding the regulation of AI. Firstly, I feel that it would not be feasible for all layers of the government to gain the level of 
+technical expertise in AI which would be required to make appropriate decisions regarding regulation of AI. Secondly, politicians in the government might
+curb the growth of AI technologies simply because a specific application of AI might hurt their political agenda. The field of AI is growing rapidly and 
+it would be impossible for all layers of the government to stay up to date with the current research in AI. I feel that the appropriate way to make 
+decisions regarding regulation of AI is to appoint a team composed of experts in AI from different fields to have the final say on all AI related regulation. 
+The team should ideally have a balance of experts that support tough regulation of AI such as Elon Musk as well as experts that feel AI should not be heavily 
+regulated. I feel that only such a group of experts would be able to make decisions regarding AI regulation which would be beneficial for the society. 

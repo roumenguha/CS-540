@@ -1,0 +1,30 @@
+	The main issue with the 100 Year AI Study is that its scope is far too small to truly be a comprehensive 
+study of how Artificial Intelligence develops over the next one hundred years. The 2016 report explicitly states that 
+the researchers chose to focus on AI's effect on life in North American cities and only in certain fields. The stated 
+purpose of this study is to "provide a collected and connected set of reflections about AI and its influences as the 
+field advances" (Stanford 2016 Report, 1), but to properly do this they shouldn’t be choosing fields and locations as they see fit.  
+	North America should in theory have a full timeline of the progression of AI, at least in the fields the 
+researchers choose to include, However, being able to look at North America without getting a clear view of the rest
+of the world makes it very easy to miss or hide things from the study. If a similar study, one that only looked at the 
+effects on North American life, was done about the development of the computer starting back in the 1940's it would 
+have found profoundly almost exclusively positive changes to society. This hypothetical study would miss all the 
+suffering in some non-North American countries to produce computers on an enormous scale so that North American's 
+could prosper. For example, this study would miss the many wars in Africa fought over Coltan which is needed to produce 
+countless digital products. These researchers should not assume that Artificial Intelligence won't have any negatives 
+that appear exclusively outside of North America. 
+	On the topic of war, it was incredibly foolish to purposely leave militaristic applications of artificial intelligence 
+out of the report. Militaries in the past, especially the United States military which would have otherwise been covered 
+in this North American report, have been early adopters and developers of new technology. It would have made sense to 
+take a snapshot of how AI is currently used in the military, even if its minimal at this time, to get a baseline for 
+future reference, because if any military decides to start investing heavily in it, the field as a whole will likely 
+develop significantly faster. Including the military in this report would also show uses for AI that could only exist 
+for a military. It's like reporting on planes and ignoring some of the most amazing technology because its only found on 
+fighter jets. In the past some technology, GPS for example, have had Militaristic origins and eventually make to the rest 
+of the world. Including the military in this report would show the progression of some future technologies that may follow 
+a similar development, rather than having them just pop into the report after they’ve been worked on for decades. 
+	Overall, this report is not truly large enough to get a good idea of how all aspects of AI progress over the next one 
+hundred years. Even if the researchers plan on expanding the study in the future, they may as well just wait until they can do 
+a full report. Otherwise the most important years of this report, that should serve as a comprehensive baseline for all future 
+reports, will be lacking. By not having this solid baseline to compare progress to, the researchers are not fulfilling the 
+intended purpose of this study. 
+ 

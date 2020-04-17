@@ -1,0 +1,25 @@
+﻿The Stanford One Hundred Year Study on Artificial Intelligence says that, “It may even be proposed, as a rule of thumb, that any activity computers are able to perform and people once performed should be counted as an instance of intelligence” (13). However, I find this statement to be rather misleading and possibly incorrect. We should not be saying that anything computers can do that humans can also do is an example of intelligence. The idea that matching human ability is a sufficient condition for intelligence is flawed because of brute forcing correct results.
+        There is a theorem known as the “Infinite Monkey Theorem” which states that a monkey typing random keys on a typewriter will eventually write out all of Shakespeare’s works. Bringing this back to artificial intelligence; if we were to use the idea that matching human ability for any task constitutes as intelligence, then this monkey on a typewriter (or random character generator) would be considered intelligent. Shakespeare was a human and the character generator was able to replicate all of his work without any prior knowledge of it. If one was to run a test on both a random number generator and an advanced AI, with the goal being to beat a human in chess, both would eventually win a game. The advanced would take a much more efficient path and use its resources to come up with answers faster, but the random number generator would eventually produce a series of moves which would be comparable to a chess professional. 
+However, obviously, the character generator doesn’t possess anything even close to human intelligence, and a random number generator picking the perfect set of moves in a chess game against a human may never happen in the lifetime of the universe even if left running continuously. Because of this scenario, it could be argued that solving problems quickly and reliably is what makes a system intelligent. But if that’s the case, consider solving math equations.
+At the most fundamental scale, the task that all computers do to “think” is do boolean logic, store data, and solve math equations. Once again, we will use the idea posed by the study saying that if a computer can perform the task that a human just did, then that computer is considered to possess some form of intelligence. The study itself also mentions that using this classification, this “places the calculator within the intelligence spectrum” (12). If we look at the most basic calculator, the full adder circuit, then we know that calculations are nothing more than cause and effect. Since calculators are on the intelligence spectrum, does that mean that anything involving cause and effect possesses some sort of intelligence? If this is the case, we can say that everything in the universe possesses intelligence to some degree, which in my opinion is absurd.
+Essentially, what can be deduced from this, is that matching human ability is not a sufficient condition for intelligence as that idea can be used to say that everything in the universe has intelligence. I feel as though this condition is not relevant in determining artificial intelligence, at least as how it is written in the study.
+
+
+
+
+
+
+
+
+
+
+Bibiliography:
+
+
+Peter Stone, Rodney Brooks, Erik Brynjolfsson, Ryan Calo, Oren Etzioni, Greg Hager, Julia Hirschberg, Shivaram Kalyanakrishnan, Ece Kamar, Sarit Kraus, Kevin Leyton-Brown, David Parkes, William Press, AnnaLee Saxenian, Julie Shah, Milind Tambe, and Astro Teller.  "Artificial Intelligence and Life in 2030." One Hundred Year Study on Artificial Intelligence: Report of the 2015-2016 Study Panel, Stanford University, Stanford, CA,  September 2016. Doc: http://ai100.stanford.edu/2016-report. Accessed:  September 6, 2016.
+
+
+Émile Borel (1913). "Mécanique Statistique et Irréversibilité". J. Phys. 5e série. 3: 189–196.
+
+
+Geoffrey A. Lancaster (2004). Excel HSC Software Design and Development. Pascal Press. p. 180. ISBN 9781741251753.

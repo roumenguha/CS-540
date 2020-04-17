@@ -1,0 +1,22 @@
+The Stanford One Hundred Year Study on Artificial Intelligence is a broad summary of developments, future applications, and future challenges associated with AI. 
+Among the challenges associated with widespread use of AI is the its impact on the labor market. As AI develops, the labor needs of some companies will fall dramatically 
+while other professions (like that of a truck driver) may be replaced all together. The study addresses this, suggesting a wide variety of potential ways to address problems
+produced by large scale unemployment caused by AI. AI will certainly cause short term damage to the labor market and will eliminate some forms of employment entirely,
+and these problems will need to be addressed by government action. However, the study overstates the long-term problems associated with AI development.
+
+The study describes AI as an unprecedented shift in human productivity that would require serious structural changes to the social safety net to account for the vast numbers 
+of people who would see their jobs automated out of existence. “Longer term, the current social safety net may need to evolve into better social services for everyone, 
+such as healthcare and education, or a guaranteed basic income. Indeed, countries such as Switzerland and Finland have actively considered such measures. 
+AI may be thought of as a radically different mechanism of wealth creation in which everyone should be entitled to a portion of the world’s AI-produced treasure.” (39). 
+The problem with this assessment is that massive spikes in human productivity are not unprecedented. For most of human history, most people worked in agriculture. 
+This changed primarily during the industrial revolution, during which mechanization and the production of new fertilizers caused a massive increase in agricultural
+productivity and consequently a massive decrease in the cost of food. In the short term, this meant farmers no longer had the income they needed to support themselves. 
+However, this obsoleting of a massive portion of the labor force did not lead to long term unemployment. Instead, people adapted. They moved to urban areas, 
+learned new skills, and after the transition was completed were employed in a wide variety of new jobs that were not even conceivable before the Industrial Revolution. 
+This pattern of short term unemployment followed by the creation of new and previously unimagined sectors of the economy persists throughout the history of technological 
+development. There is little reason to think AI technologies will, in the foreseeable future, be fundamentally different from other historical spikes in productivity. 
+This is not to understate the seriousness of the disruptions that AI can and will cause. While it is easy to say that employment will recover and new industries will be 
+created with the onset of AI technologies, that does little to help a truck driver who has just been replaced by an automated vehicle. Retraining programs, 
+educational reforms, and a more robust social safety net are all possible ways to help those who do end up unemployed by AI. However, these programs should be
+ designed as ways to address a short-term problem associated with transitioning to radically different economy, not as a solution to a persistent problem caused by
+ AI technologies. 

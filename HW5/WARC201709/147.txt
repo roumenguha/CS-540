@@ -1,0 +1,25 @@
+{\rtf1\ansi\ansicpg1252\cocoartf1504\cocoasubrtf830
+{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+{\colortbl;\red255\green255\blue255;\red0\green0\blue0;\red38\green38\blue38;\red250\green250\blue247;
+\red120\green9\blue17;}
+{\*\expandedcolortbl;;\cssrgb\c0\c0\c0;\cssrgb\c20000\c20000\c20000;\cssrgb\c98431\c98431\c97647;
+\cssrgb\c54902\c8235\c8235;}
+\margl1440\margr1440\vieww12520\viewh8400\viewkind0
+\deftab720
+\pard\pardeftab720\qc\partightenfactor0
+
+\f0\fs32 \cf0 \expnd0\expndtw0\kerning0
+Summoning the Demon\
+\pard\pardeftab720\partightenfactor0
+\cf0 	Every so often a technology comes along that transforms how humans interact with the world around them. Notable examples include automobile, the computer, and air travel. From the various impacts that artificial intelligence (AI) has already made, outlined in Stanford 100 Year Report on Artificial Intelligence, it becomes clear this will have the greatest impact the world has ever seen. Taking lessons from the past it is clear that the controllers of said advances accumulate vast wealth and power. However, the future rise of artificial intelligence will be on a scale that humanity has not even begun to prepare for. The Report neglects the warning signs and wrongly asserts that artificial intelligence is not an imminent threat to the future of the human race.\'a0\
+	The power transformation that will occur when artificial intelligence becomes life changing, which it inevitably will, will be on a scale unknown to history. This is because of the lack of manpower necessary in scaling. Giants, such as Henry Ford, were confined by the need for workers and innovators to expand their businesses. For example, every time Ford wanted to make more cars he needed to build more factories, buy more materials, and hire more workers. When an individual or small group controls AI they will not have such limitations. All they will need is computer hardware and server space, two items that are becoming increasingly inexpensive. Thus, economic power and future innovation falls into hands the public has no control over. It is naive to leave who ends up controling the most powerful technology ever created up to wishful thinking.\'a0\
+	However, the previously stated scenario would be a tame one compared to a self-controlling AI. Due to the speed that electrical circuits work, if an AI was able to obtain the same intelligence as a human, the AI could perform the same amount of thinking, research, and innovation in one hour that humans could in 20,000 years. This simple fact would allow such AI to become orders of magnitude smarter than humanity instantly.\'a0The question the report fails to address is what happens when a machine becomes more powerful than the entire human race. Many experts agree that once such an AI decides humans no longer benefit its agenda, then they will instantly take deadly action. Even if the Report only sees a slim chance of such a scenario, the detrimental effect on humanity is too great to ignore.\
+	Most of the conclusions in the report are fundamentally well thought out, but in attempt to facilitate the research and integration of AI they mistakenly assume there is no imminent danger to be wary of. Whether it will be a small group of humans or self-controlled AI, the power that will be created will upset the entire balance of innovation and economics in the world. Even worse, the is a real possibility in the human race ending itself through AI research. While experimentation must be facilitated, policies must be put in place to keep the technology open source and safe in order to create a safe future in which AI makes every human life better. \
+\
+\pard\pardeftab720\partightenfactor0
+\cf3 \cb4 	\
+\pard\pardeftab720\qc\partightenfactor0
+\cf3 Bibliography\
+\pard\pardeftab720\fi715\partightenfactor0
+\cf3 Peter Stone, Rodney Brooks, Erik Brynjolfsson, Ryan Calo, Oren Etzioni, Greg Hager, Julia Hirschberg, Shivaram Kalyanakrishnan, Ece Kamar, Sarit Kraus, Kevin Leyton-Brown, David Parkes, William Press, AnnaLee Saxenian, Julie Shah, Milind Tambe, and Astro Teller. \'a0"Artificial Intelligence and Life in 2030."\'a0One Hundred Year Study on Artificial Intelligence: Report of the 2015-2016 Study Panel, Stanford University, Stanford, CA, \'a0September 2016.\'a0Doc:\'a0{\field{\*\fldinst{HYPERLINK "https://ai100.stanford.edu/2016-report"}}{\fldrslt 
+\b \cf5 http://ai100.stanford.edu/2016-report}}. Accessed: \'a0September 6, 2016.}

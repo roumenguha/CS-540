@@ -1,0 +1,28 @@
+	Though I largely agree with the ideas and suggestions put forth by “Stanford’s 100 Year Study on Artificial Intelligence”,
+ I do challenge some of their ideas concerning AI’s influence on entertainment. As a student studying Communication Arts: 
+Radio/TV/Film, with minors in Digital Studies and Computer Science, I have learned a great deal about the interaction between 
+technology and humanity in the creation of entertainment. While everyone’s experience of a work is largely subjective, I have 
+studied in depth what elements make a work pleasing and entertaining to an individual. 
+	Due to this background, I challenge the study’s comment that "AI will increasingly enable entertainment that is more 
+interactive, personalized, and engaging" (Stone et al. 40). While I do believe that AI can have a beneficial impact on entertainment in various forms, I challenge that this effect will increasingly aid in great entertainment. A vital factor in this argument is the idea that entertainment at its core appeals to human emotion and appreciation of beauty. While AI can effectively use information to study what types and themes of entertainment people enjoy, I believe there is still a need for a human creator, specifically when dealing with more complex art forms such as television and film. Today AI remains far from being able to understand, appreciate, and replicate the immense complexity of human emotion, connection, and society. It is these human yearnings, hopes, fears, and beliefs that characterize most of the best artworks, both modern and historical. Even if, in the future, an AI was created with an appreciation for human emotion and beauty as well as the ability to create an original work, I believe the understanding of emotion, and ability to evoke it in others, would be far from what people today possess. 
+	The study goes on to say that “more sophisticated tools and apps will become available to make it even easier to produce 
+high-quality content” (41). While I believe this statement is clearly true, and it implies the continuance of a human creator, I 
+dispute the inherent connection the study seems to make between well produced content and entertaining content. As many examples 
+across film, television, and other art forms have shown, the evocation of emotion is often more important than the objective 
+quality of the content. Many people would claim they enjoy the 1999 film “The Blair Witch Project”, which was made for a mere 
+$60,000, over many modern horror films upon which many millions of dollars are spent. This example indicates that behind each 
+great work is a creator who not only holds a deep grasp of the human condition, but also the ability to manufacture a complex 
+work to evoke the intended emotion in the audience. 
+	While I believe the study and implementation of AI will lead to greater tools for understanding popular interests and even
+ for producing entertaining content, I maintain that a human intelligence is necessary to envision and guide the production of 
+truly complex, meaningful, and engaging art. I believe AI will lead to greater personalization and production quality of 
+entertainment, but it will not result in increasingly more interactive and engaging content, because of the continued need for a 
+human creative force. 
+	Peter Stone, Rodney Brooks, Erik Brynjolfsson, Ryan Calo, Oren Etzioni, Greg Hager, Julia Hirschberg, Shivaram 
+Kalyanakrishnan, Ece Kamar, Sarit Kraus, Kevin Leyton-Brown, David Parkes, William Press, AnnaLee Saxenian, Julie Shah, Milind 
+Tambe, and Astro Teller.  "Artificial Intelligence and Life in 2030." One Hundred Year Study on Artificial Intelligence: Report 
+of the 2015-2016 Study Panel, Stanford University, Stanford, CA,  September 2016. Doc: http://ai100.stanford.edu/2016-report. 
+Accessed:  September 6, 2016.
+ 
+
+

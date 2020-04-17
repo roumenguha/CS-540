@@ -1,0 +1,47 @@
+# Homework 1
+
+The Stanford One Hundred Year Study of Artificial Intelligence predicts that by
+2030 the typical North American city will rely on AI solutions for monitoring
+and predictive policing. While the study mentions the concerns that such AI
+based solutions have the possibility of encoding human biases in AI algorithms,
+the study's authors move past these concerns to discuss a more optimistic view
+of this technology. This dangerously ignores potential flaws in both AI policing
+systems and the deployment of those systems that could have terrible impacts on
+future suspects.
+
+It’s not necessary for an AI system to advance to the level of sophistication as
+the Minority Report for the dangers of a mis-classification to become apparent.
+While algorithms may not be programmed with explicit biases they can nonetheless
+be fed data collected from humans harboring their own biases and the biased data
+can manifest as a biased AI. These kinds of problems are already emerging in our
+current justice system. Around the time that this study came out, ProPublica
+reported on a program being used by judges during sentencing to predict which
+defendants are more likely to commit future crimes. While the program’s score
+isn’t gospel it is a factor used by the judge to determine how harshly to
+sentence a defendant. Analysis of this program revealed a number of concerning
+flaws:
+
+- When comparing the program’s estimate for how likely a defendant was to commit
+  further crimes, the program was only 50% accurate.
+- The program mislabeled black defendants as future criminals at twice the rate
+  that it mislabeled white defendants as future criminals.
+
+It’s understandable why it can be compelling for a justice system to turn to
+these kinds of programs or in the future why they might turn to AI as another
+tool for fighting crime or relieving the burden on a strained justice system.
+These kinds of tools take a lot of data and produce a simple digest that can
+offer guidance to judges or police captains. But these systems are seductive in
+that they can too easily replace difficult moral decisions with a black box that
+may or may not contain dangerous biases.
+
+The study is correct that AI techniques have the potential to remove or reduce
+human biases but even with the current infantile state of AI, systems are being
+used in the world that can exacerbate systemic biases. In many domains, the
+problems inherent to early AI systems are perfectly acceptable. If a smartphone
+voice assistant doesn’t understand a request that’s an acceptable if annoying
+aspect of interacting with AI systems as they are developed and mature. The same
+kind of attitude cannot be tolerated in the justice or police systems where
+the wrong decision can have permanent and life-altering consequences. While the
+study provides a variety of scenarios in which AI systems can and have been
+helping fight crime it seems to quickly skip past the very real scenarios of
+harm AI in the justice system can do.

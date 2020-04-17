@@ -1,0 +1,21 @@
+The One Hundred Year Study on Artificial Intelligence study covers the direction taken by upcoming AI research in popular application domains, the challenges faced (both technical and societal) and the panel also goes further into suggesting solutions to mitigate/prevent them. The research is thorough and comprehensive, however we will look at some of the underlying assumptions and possible oversights and try to challenge them:
+
+1) Can we actually control the quality of non-tangible and possibly open-source AI technology? 
+
+The panel was right in stating that “with careful design, testing, and deployment,
+AI algorithms may be able to make less biased decisions”. However, enforcing that all AI products follow state of the art algorithms might be an impractical conjecture. In a real world, we have bad designs, missed out test cases, resource constraints and timelines to be met. These shortcomings could have stronger societal implications for AI related technology when compared other technology. 
+
+For eg, consider a system tries to predict whether a person is likely to be a criminal. One missed out test case might lead to a slightly biased system. In this case, a missed out test case could mean a race or a community is marginalized inadvertently. Here, we can see that the repercussions of a design gap could be dire and it is challenging to ENFORCE quality.
+
+Data is usually collected from human annotations which will carry implicit bias. Most AI systems have methods to “reduce” bias and not “eliminate” them, the presence or lack of it therefore becomes a spectrum and not a binary. It becomes challenging to get a true sense of the extent of bias present in a system especially in applications that use image/videos and employ deep learning technologies such as convolutional neural networks.The occurrences within the machine learning model is a black box to us and is worth some concern. We do not know what the machine has learnt, we only know the result. It is difficult to ensure that the machine has not learnt something that you do not want it to learn,  when we do not yet have good solutions to sneak a peep into the black box. 
+
+This means that bugs might stay in the system and may not be timely caught and could have devastating effects to mankind. Moreover, since we do not even have an all encompassing definition of what qualifies as an AI product, it is not pragmatic to assume that we can prevent sub quality technology from being in vogue. ‘
+
+2) Will the pace of establishment regulatory policies and new laws be ahead of development of AI sytem so as to prevent mishaps?
+
+While the paper has addressed the concerns regarding misuse of AI technology by stating that govt bodies should be formed to create new laws for the changing world, a hope for this to happen could be a little idealistic. The fact of the matter is that when we consider the rest of the world outside of North America, including third world nations, the govt bodies could be slow, inefficient, messy or could simply have other priorities. In the real world we do not follow a waterfall model wherein, we go the stage of funding and creating AI technology only after we have meaningful law bodies and standardisation and regulatory committees established in the whole world. Since development of law and development of technology happens parallelly and side by side, we leave open room for a fair amount of technology misuse and it would be appropriate to acknowledge that the scientific community is willing to make this sacrifice.
+
+
+
+
+

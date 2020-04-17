@@ -1,0 +1,37 @@
+Challenge to the 100 Year Study
+	The 100 year study incorrectly assesses the current state of AI in education and also the
+future prospects AI has in the realm of learning on upper education levels. While the study is quite 
+bullish on both the current impact and an increasing role in the future, the reality is that AI in 
+its current form has not helped, but rather has impeded learning on an advanced level.
+	As any college student who has taken an online class knows, AI encourages cheating and constant 
+google searching, while detracting from any analytical learning and deep thinking. The crux of the 
+problem with AI in education is that while it is interactive and “fun”, it does not encourage users 
+to read or memorize anything, as all information will be accessible on google for future tests and 
+assessments. For this reason I strongly disagree with their sentiment that “AI promises to enhance 
+education at all levels”. They do very little to support this claim, and it appears to be baseless
+in any sort or reliable study or data. While online education does definitely increase convenience,
+a vast majority of students and educators would admit it is far inferior to pen and paper homework.
+For grade school and maybe even high school, I believe there is a place for AI to aid in the simpler
+subjects that can be explained by a short video, however at the college level it does not appear to
+play much of a role due to its ineffectiveness. Take Khan academy for example, it is a revolutionary
+database of math subjects and explanations that has helped many conquer high school math courses in 
+half the time it would take them to listen to their teacher. However any calculus 2 student knows that
+for anything more than surface knowledge it is essentially useless in the course, as the problems are 
+simply too complex and diverse for a video lecture to cover or learn from. It is in this type of 
+education that AI is no real match for pencil, paper, and physical in classroom lecturing. 
+	The challenges section on education makes very little sense to me. After profusely praising how much AI
+has helped increase the number of students in classrooms and enhancing learning, they excuse its lack of
+implementation by saying “Much of its absence can be explained by the lack of financial resources of
+these institutions as well as the lack of data establishing the technologies’ effectiveness.” If AI
+truly helped expand classes for colleges and simultaneously enhanced learning for students, it would 
+seem far fetched for schools not to invest more in it. It would also seem trivial that expanding classes
+while limiting the amount of added teachers would save the school money, not cost it more. What the study
+seems to be missing is that schools are not avoiding AI because of a lack of data, but rather because in 
+their experiences it detracts from learning, not enhances it.
+	To sum up briefly, while it is impossible to predict with any sense of accuracy what AI’s role in education
+will be down the road, it is clear that right now it is more gimmicky than it is helpful. Online classes and
+learning modules promote quick bursts of information tailored to short attention spans, and take away from 
+the true learning that as of right now can only be executed in the traditional classroom. For those who need to 
+learn base knowledge quickly, it is unmatched in combining effectiveness, convenience, and speed. However it 
+does not have depth, which is paramount to higher education learning and is why it’s hard to see AI playing a
+larger role in the college classroom in the near future. 

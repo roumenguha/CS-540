@@ -1,0 +1,34 @@
+In the Stanford report One Hundred Year Study on Artificial Intelligence (AI100), researchers talk about 
+existing and potential applications of Artificial Intelligence in nearly every field. As AI continues to
+improve and change our lives, we undoubtedly will see changes in our economy. These changes have potential 
+to benefit humans by automating basic tasks, saving us time, and lowering the price of goods and services.
+However, I feel as though the report glossed over the potential negative economic impacts of artificial
+intelligence. In this paper, I will talk about my concerns with AI and what action I think should be taken
+to address these concerns.
+
+AI has long produced fears of major job loss, which the article addresses in the Employment and Workplace 
+section. They state that most fears are overblown, and that so far AI has mostly "been affecting workers more 
+in the skilled middle, such as travel agents, rather than the very lowest-skilled or highest skilled work".  
+While I agree that job loss likely won't be catastrophic, I also think it is foolish to assume that AI won't 
+also end up impacting low-skilled employees dramatically.  While currently the cost of automating low-skill 
+workers is not economically feasible, AI and technology continue to advance. Perhaps it will take a few 
+decades, but it's hard to for me to imagine a future in which AI-controlled robots are not cheaper and more 
+efficient than humans at low-skilled tasks. 
+
+Furthermore, the shrinking middle class should be a bigger cause for alarm than the report considers. With
+the rising cost of a college degree and the increased importance of said degrees for middle class jobs, the 
+job loss due to AI will only increase the strain on this segment of the economy. Also, those who will be best 
+equipped to deal with AI will be college educated, so that will also increase the education gap in our society, 
+and place significant barries for low-income Americans to benefit from AI advancements. Given the rising income 
+inequality in the United States, it seems as though the owners and investors of AI technologies are those to 
+stand to benefit most from the imcoming AI revolution. And also considering the fact that wealthy political 
+donors have incredible influence in US Politics, it's probable that the wealthy can successfully lobby 
+politicians into supporting their control over the profits and wealth that AI will produce.If left unchecked, 
+this could devestate opportunity the lower and middle class.
+
+To give the report some credit, they advocate for the debate over a stronger social safety net, programs 
+such as universal healthcare, education, or basic income. I agree wholeheartedly with these suggestions,
+however unlikely they may seem in today's political climate. Furthermore, I think that there will be new
+jobs and industries that become available due to advancements with AI. However, since we don't know what that
+future economy looks like yet, I think we need to prepare now and be proactive in reforms to the social
+safety net.  

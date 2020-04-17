@@ -1,0 +1,26 @@
+	The Stanford One Hundred Year Study on Artificial Intelligence provides a great groundwork for the understanding of A.I. and 
+the vast amount of benefits that it could potentially provide to our everyday lives. However, there are some points that are overlooked 
+in the study or that have unreasonable expectations, namely, in transportation. In this essay I am going to challenge their view on 
+autonomous cars, flying vehicles, and the legal issues that come along with these new forms of transportation.
+      	In the Stanford report they reference an article predicting that there will be 10 million autonomous cars on the road by 2020. 
+I think there will be multiple factors that will make the transition to autonomous cars slower than they think. The first being that it 
+is going to be hard for a lot of people to put their trust in technology. Although I do agree with the report that self-driving cars
+would be much safer in general than the typical driver. Another thing that I think will slow down their progress is their ability, or 
+inability, to make tough choices. Let’s say a child runs out in front of a self-driving car and the cars only option is to either hit 
+the child or swerve off the road and hit a tree, what is it to do? This along with many other potential obstacles will make the goal 
+for 10 million autonomous cars a challenging one.
+	Along with autonomous cars the report also mentions flying vehicles. It doesn’t say a lot about this topic but it does say that 
+it is reasonable to expect flying vehicles by 2030. Although there may be prototypes out for flying vehicles, this still seems like a 
+very outlandish claim. It’s safe to assume that these vehicles would be autonomous due to the fact that trying to receiving proper 
+training to safely fly one would be extremely rigorous and unrealistic. One can only imagine the price of owning a personal aircraft 
+like this so I don’t really see it in the near future excluding maybe the very upper class citizen.
+	The point that I think will be the most difficult for up and coming autonomous vehicles, flying and on land, will be legal 
+issues. In the report it touches on the subject of liability, but it doesn’t find a real solution. Who will be the one held accountable 
+when a sensor malfunctions and a pedestrian that is crossing the street is hit and killed? If all of the blame is placed on the 
+creators of the software this will clearly make them lose their incentive to continue to try and push this new technology if they are 
+constantly getting law suits. However, if they are not to blame then who is? The only real and very imperfect solution is for the 
+liability to fall on the victim. For obvious reasons this would be a tough policy to pitch to the public, but I think that it would be 
+the most logical way to go.
+	Although a future with self-driving cars and flying vehicles is one we all might dream of, there are still many obstacles that 
+lie ahead before this may become a reality.
+	

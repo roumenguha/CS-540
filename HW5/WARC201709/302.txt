@@ -1,0 +1,25 @@
+	For a long time, people have evolved to be innovative and build things that would have been thought to be unimaginable some time before they came into existence. 
+However, as those creations become popular, the demand puts more strain on people to mass produce them, which is burdensome and quite repetitive. One solution for this issue 
+was to automate the process which is efficient and less-prone to errors. An example would be the production of automobiles, most of the process involving robotics and 
+automation. This is just one of many areas where Artificial Intelligence plays an important part to improve lives and make an impact. The One Hundred Year Study on 
+Artificial Intelligence by Stanford gives a great insight on AI, its history, the part it plays in our lives and its future. However, there are a few claims made in the 
+article which I do not entirely agree on and hence challenged them in this essay.
+
+	Public safety and security is an important sector that is required everywhere to prevent crimes and other unfortunate incidents from happening and discourage those 
+who would think about doing them. Although improving the technology for better surveillance such as better cameras and drones certainly would help in bringing down crime 
+rates, letting AI make decisions using prediction tools to reduce human bias in the future is something that should not be researched into much (Pg. 36-37). Using Artificial 
+Intelligence as a tool to develop technology gives it the ability to learn quickly and adapt to situations fast, but would not give it the ability to understand human 
+emotions and their unpredictability. With AI growing rapidly, having it make decisions as a part of the public sector administration would be detrimental as they could 
+easily choose to deem someone to be unsuitable for society due to their emotions that would not have resulted in any harm. For instance, a person having a bad day could 
+be judged by AI as someone who will commit a crime soon. Movies such as Minority Report try to show these scenarios and their overall impact on society. Hence giving AI 
+more administrative power would be risky and can result in serious damage in the future.
+
+	AI has already become deeply rooted in our lives in the form of technology that promotes education such as smartphones and tablets, which can be used to access many 
+educational resources such as Wikipedia catered to our needs to learn in an efficient way (Pg. 33). The article claims that AI can even be used to provide good education 
+through the use of tools such as iPads that has many educational apps available (Pg. 35). However, the article does not seem to consider the fact that people can get 
+distracted easily while using those tools by just switching to another tab that has an entertainment app open. In this case, AI is unfortunately a double-edged sword, 
+providing access to both education and entertainment at the same time. Using such tools can also negatively impact the social interactions of students and create a gap 
+among their peers.
+
+	Artificial Intelligence has played an important part in many lives in improving their conditions and the report accurately portrays the growth and impact of AI. 
+However, the study of AI should be moderate in some fields where certain risks are involved that could harm society and the people who are a part of it.

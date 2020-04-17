@@ -1,0 +1,49 @@
+Problems of a mobile health-care assistant development
+
+Health is one of the most vital factors in a living creature and represents
+the level of a complex system, e.g., the ability to think, communicate, and support
+other tasks of self-managing. In a modern society there are different institutions,
+which provide options to support  mental and physical health of human beings.
+However, given prices for urgent health-service or the fact, that sometimes you
+have to wait for 3 days to get antibiotics for a pink-eye, make the opportunity
+to have a personal doctor in your home or better inside a pocket is desirable. Having a
+mobile application, which is capable to detect whether person has a fever, because
+he/she gets a cold and recommends a suitable treatment, saves money and time for the
+patient and can contribute to doctors' time by decreasing a load. Nevertheless,
+factors like cyberchondria, lack of possibilities to collect data, and influence
+of pharmaceutical companies on developing of such app to recommend "right" drugs,
+can be key in creating a mobile assistant.
+
+Cyberchondria is a raise of health anxiety based on knowledge about common symptoms
+in rare and fatal diseases and is considered as a growing concern among
+health-care institutions. As any other AI a possible mobile health-care assistant
+requires an access to data to work with. Since number of diseases have same symptoms,
+to decrease the range of possible illnesses, the manager might ask human about some
+symptoms, which can influence on person's opinion and his/her own perception. That
+can leads to a wrong diagnose. Such situation give a rise to another problem,
+concerning the ways of data collection.
+
+Despite that mobile devices like smart watches, mobile phones and other have
+different sensors to measure a heart rate or a sleep pattern,
+in addition to questionaries, it might be still not enough to set the right
+diagnose, since a lot of diseases require special technology like MRI or human
+assisting to check if there is a pus in a throat. However, even if it is possible
+to detect a right diseases and suggest medication, there might be a problem
+of a bias in selecting "right" treatments.
+
+Unfortunately, some companies are much more interested in getting a profit, rather
+than in a society development. Some pharmaceutical companies might see mobile
+health-care agent as a way to distribute and advertise drugs which are interesting
+for their purpose. For example hypothesis testing or just simple getting more profit,
+by suggesting more expensive drugs. It is important to notice that such actions
+might effect a moral part of a society, since it is easier to give drugs for a
+test to some id from a huge system, rather than to a real person.
+
+On the first glance mobile health-care assistant looks like a wonderful and very
+appealing idea. However, there are number of pivotal points, which require a lot
+of work. An obvious one is a problem of creating a portable AI, which is
+able to collect sufficient amount of information to predict a right diagnose,
+without involving of a medical specialist and specific tools like MRI and other.
+Another problem is much dangerous for the society in general is that some companies
+might use a mobile manager to spread "right" drugs as suggested for treatment for
+companies' own sake.

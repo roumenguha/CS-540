@@ -1,0 +1,17 @@
+"AI will likely replace tasks rather than jobs in the near term, and will also create new kinds of jobs. But the new jobs that will emerge are harder to imagine in advance than the existing jobs that will likely be lost."
+
+Challenge: I challenge the observation that AI is likely to replace tasks rather than jobs in the near-term. I believe that AI has so far been replacing tasks rather than jobs but henceforth it will be starting to replacing jobs as a whole at an alarming pace.
+
+Even before the recent rise in AI technologies, the non-AI traditional software has already made jobs disappear. While gas stations in most developed nations are self-serviced, the same is true for most developing nations. The self-service gas stations became a reality only after computers became predominant. Softwares have been replacing jobs for over decades now. Factory jobs, assembly jobs and many other jobs which were repetitive have been replaced by automation which became possible only through software. 
+
+The report is very lenient about the impact AI is going to have on jobs and in turn, the impact that the loss of these jobs have on the economy. Usually, whenever some new innovations come up that would make a certain set of jobs disappear also create new jobs based on the innovation. For example, when mankind figured that it could use electricity to light up the streets instead of whale oil, the whale oil industry disappeared with all the jobs in it, paving way for tremendous growth of electricity based industry such as the coal mining industry. But the current scenario has been in such a way that a number of jobs that are disappearing due to automation are relatively much larger than the jobs created by the process of automation. 
+
+"Recent report predicts self-driving cars to be widely adopted by 2020". 
+
+The report claims that self-driving cars will be widely adopted in the near future. The adoption of self-driving automobiles implies that the jobs that are based on driving could potentially disappear. It would directly impact a vast majority of truck drivers, cab drivers, bus drivers. While self-driving car adoption means that more machine learning engineering jobs are created but for every machine learning engineer job created we might lose 10 driver jobs. 
+
+The jobs that AI will most likely take away are also low paying jobs which do not require a skilled workforce. It should be noted that people who are employed in such jobs usually belong to the low income or lower-middle income group. The rise of AI tech is most likely going to have a negative impact on people who belong to the lower income groups. If loss of the jobs is not unchecked it might result in the entire collapse of the country's economy. All the lost jobs would mean that lesser consumption in the economy, lower consumption of goods in the economy would mean lower profits which in turn would result in more lost jobs and this might uncontrollably spiral into a collapsed economy if the things are left unchecked. 
+
+When policies are made about AI, AI should be considered as having potential in replacing jobs rather than just replacing tasks. Even though new jobs will emerge due to AI, the number of jobs will be far fewer when compared to the number of jobs that are lost to innovations in AI.
+
+

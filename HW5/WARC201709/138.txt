@@ -1,0 +1,41 @@
+ The challenges on the 100 year AI study
+   The title may be redundant but not the essay that follows. The 100  year study on AI is an attempt by AI savvy people to present the advancements, vision and challenges that
+lie ahead in bringing AI to the society. The problem starts with the very beginning of defining Artificial Intelligence. It defined AI as the “ability of machines to think 
+intelligently and with foresight in its environment”. This definition could apply to any machine any particular that performs a task assigned to it including a calculator. 
+But, that is not all of it and that is not what AI is intended to.
+
+    Another challenge is in the level of specificity of applying AI. The principles of AI are common but applications are diverse. That in turn gives rise to a variety of 
+challenges. A lot of challenges were presented in the study. I would like to elaborate and add on a very important challenge.
+
+Lack and Loss of Personal touch :
+  I would like to define AI as intelligence created “by the people, of the people and for the people”. That’s exactly how Abraham Lincoln defined democracy. Clearly, AI is 
+something by the society and for the society. While AI is certainly intended to amaze people with its awesomeness, I strongly fear the human values getting compromised in the
+ process. This is not the same as zombies destroying the world as pictured in movies. I agree that it is amazing to watch machines intelligent but don’t agree them take the 
+human’s chair. Let me elaborate this perspective in few of the eight surveyed domains as below :
+
+(i) Transportation :
+Driverless cars and other intelligent services like GPS, automated parking are a boon to drivers. But who would want to compromise the pleasure of self driving ? Alternatively,
+ rather than teaching machines on how to drive, we could have machines that monitor human driving and instruct him as and when he falters. This would probably boost the 
+confidence of novice drivers and help build trust among people in the use of AI systems.
+
+(ii) Healthcare:
+Deploying AI in healthcare is like hanging on a cliff. A department that is run by trained and experienced professionals, relying on machines seems to be a far-fetched goal. 
+Alright, let’s assume that diagnosis and medication is more accurate than a human examination. Personal care and comfort that doctors and hospital staff provide to ailing 
+patients is key in improving the health. This is something that AI machines can never achieve as human emotions are vague and subjective.
+
+(iii) Public safety and security:
+AI has been tremendous in monitoring safety and ensuring security of the public. The report states that it does overcome human bias. Well, I would say that these systems may 
+have escaped human bias but fall a prey to human vengefulness. How many times have we seen public security compromised by vengeful hackers ?
+
+(iv) Education : 
+Lot of AI enabled learning resources have boomed up. Learning is not complete without knowledge sharing with peers and discussion forums. The learning rate differs across 
+students and nothing but an onsite classroom can provide this completeness.
+
+
+Is that all ?
+  The above essay could have taken harsh on taking AI to the public. It is absolutely not. I have just shared my perspective that AI should not supplant humans. Intelligent 
+machines are definitely the society’s better half. They should lend themselves to be mended now and then just as kids are corrected by parents. AI is mankind’s baby and not a 
+master.
+
+
+

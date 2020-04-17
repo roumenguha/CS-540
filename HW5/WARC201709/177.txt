@@ -1,0 +1,23 @@
+Autonomous transportation appears to be an extremely efficient and beneficial use of AI; in the September 2016 Report, it describes how having a group of cars linked by a network, allowing
+them to drive quickly and navigate through traffic wil enable them to reach their destination in a more timely and safe fashion. This will also be one of the areas where the public will have 
+direct contact with AI and see its benefits. Already cars utilizing parking, checking the blindspot of the vehicle and highway control (Stone, 19). This however will be an
+area in which AI will be difficult to incorporate into public and daily use and one that I doubt will be accomplished by 2030, as oppose to what Stone writes in page 18.
+
+Currently AI is restricted to portions of the car and the human driver still has control (Stone, 19); a completely autonomous car will have some problems though, not technologically, but socially. 
+With the September 11th Terrorist Attacks, the United States saw a great increase in security over airports, within New York immediately following the attacks, subway trains were patrolled by 
+the National Guard as well as the NYPD. Both heavily armed and equipped for chemical attacks (gas masks and some with hazmat suits); while the Amerithrax attack only killed 5 people and
+targeted US senators and media outlets, it became the focus of the FBI due to the threat that it posed; which was enough to equip law enforcement for the very possibility. 
+This perfectly illustrates that even a threat and small-scale attack can provoke a dramatic response by the public. During this day and age, hacking and cyberterrorism is quite widely 
+known, if only by name. The threat of an individual breaching a network and diverting traffic with a malicious intent would be enough to stall or stop any city or township from incoporating 
+this new autonomous form of travel, until it could be proven safe from both accidents and attacks; which itself presents another issue facing AI's implementation within transportation.
+
+While witout a doubt intelligent, engineers and software developers don't rule the world and aren't common within the public. The state-level politicians and public servants make rules, 
+decide on budgetary concerns and how to update city infrastructure. This means that the argument has to be made for them, which would be just fine, if not for the warped view that people 
+have on technology in general. The science fiction genre has long since explored AI becoming malicious (Hal 9000, the Matrix, I Have No Mouth and I Must Scream, etc.) which has portrayed 
+AI in a very unflattering and unrealistic light. Making it appear as if technology is simply waiting to be given the tools to turn on their human masters. There are so many arguments that 
+single person with a loud voice could make against autonomous transportation : What if the machines turn against us? What if cyberterrorists turn our cars into deadly weapons? What if there's 
+latency within the network? On paper some of the arguments sound ridiculous, but thinking that the public will act in a rational and informed way isn't the best plan to implement. 
+The Y2K Scare also reflects the fear people can have towards technology and while there were reports of some issues, it was neither remotely close to the scale or seriousness that situation
+predicted. Australia invested millions in backing up its information and recalled their entire staff from Russia from that incident alone (National Geographic, Rutledge, 1). A situation that 
+quickly proved itself to be a hoax. Autonomous vehicles don't have this benefit, they have to be implemented and shown to be better than human drivers, there is no ticking clock that can 
+simply be waited out; even after proving themselves to be safter, there is no guarantee that people or state officials would endorse it for public and day-to-day use.

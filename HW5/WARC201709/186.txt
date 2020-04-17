@@ -1,0 +1,34 @@
+The assigned reading is certainly an excellent resource for a beginning introduction to the state-of-the-art research and 
+industrial use of Artificial Intelligence (AI).  I have no obvious disagreements with that part of the presentation.  I do,
+however, believe that the report underestimates the potential impacts of the development and expanded usage of AI.  
+Certainly, I do not believe that we will soon be developing real-life killer robots.  Rather, I believe the authors do not
+fully address possible human responses to the expanded use of AI, and the negative consequences that may arise due to 
+such responses.
+Before I address specific instances of disagreement, I believe that I should first admit any potential biases and my 
+general opinion of human behavior from which I am drawing any conclusions.  I believe that humans are essentially 
+emotional, often rather illogical, creatures.  We, without careful forethought, can make decisions that we believe 
+benefit us most, without care as to how others may be affected.  As any group in humanity is simply a group of humans, 
+any group of humanity is often prone to what is seen by an outside objective observer as irrational behavior.
+To this end, for example, what is the potential reaction of people to self-driving cars?  I, as someone who prefers 
+to feel in control of my own transportation agency as well as someone who simply enjoys driving at times can anticipate 
+that some people may simply not want to own a self-driving car.  As another example, the section on the healthcare 
+industry reads nearly as a complaint about byzantine privacy regulations.  The authors seem to not consider whether 
+there is real, understandable privacy concern, whether could change, and what effect the privacy considerations of 
+health-care professionals, rooted in the Hippocratic Oath may have.  In addition, as a general effect of new 
+technologies, could negative sociological strife occur due to changes in employment and a further increasing wealth gap?  
+Fear of change could induce people to behave rather irrationally.
+In fairness, the authors readily admit concerns may arise from the use of AI in new technologies and propose 
+research to address potential social and policy concerns.  I do, however, believe that they fail to state the 
+importance of such research and do not appropriately warn that negative effects could arise.  In part, I believe that 
+their focus on a “typical North American city” hampers their conclusions here.  While we may be seeing a new boom of 
+economic activities in cities, this will be due to the interconnected nature of the economy have effects on other areas.  
+The political response, of such areas, at least in the United States, is critically important due to the nature of 
+American representative democracy (i.e. single-member first-past-the-post districts, overrepresentation of rural areas 
+in the US House of Representatives, US Senate, and Electoral College).  This at least, is important to how state and 
+federal regulations (which the authors discuss) will affect the impacts of expanded AI use.
+I feel, also, that some of the presentation is due to the authors, from my impression, being top scholars and 
+industrialists in the field of AI, and thus, highly trained scientists.  In my previous experience, I have read 
+scientific literature, and I feel that the field requires scientists to try to present definite conclusions and avoid 
+admitting any ignorance on a subjects such as economics, sociology, and health care policy.  This, I feel adds to my 
+dislike of the presentation, as well as my personal belief that society will certainly partly fail in mitigating the 
+negative consequences of new technologies.

@@ -1,0 +1,41 @@
+	The arguments and predictions put forth by the Study Panel concerning the 
+future of AI in some selected sectors are mostly well reasoned, given what happened in the 
+last 15 years. However, I believe the Panel is inaccurate in predicting the role that 
+flying vehicles play in our future and the extent of social impacts of AI in transportation.
+
+	The Panel is correct in predicting that most of the cars will have self-driving capability. 
+Every major auto manufacturer has either already announced future products which can self-drive 
+or has been actively investing in R&D. But, I disagree with the social impacts outlined in the 
+essay because of this adoption. The view that people will own fewer cars and live further from 
+work could turn out to be very wrong. Owning a car is a symbol of independence and individualism 
+in North America and self-driving cars will have a very tough time to change that idea. No matter 
+how good the public transportation and ride-sharing gets because of AI, which itself is dubious 
+because of infrastructure impediments as argued by the Panel itself, people will continue to own a car. 
+Similar argument can be made against the prediction that people will be living further away 
+from their work places. A self-driving car would still have the same engine to run a car, 
+same roads to drive upon and would encounter the same congestion problems. Any change in 
+infrastructure, major or minor, is usually a very slow process. And there isn’t as much rapid 
+progress in collaborative systems as there is in self-driving technology. 
+
+	Further, I disagree with the Panel’s prediction that future transportation in near term will 
+include flying vehicles. I believe that the likelihood of flying cars as a mode of transportation in 
+the next decade is slim. We have thousands of airplanes flying at a time in our sky, because there 
+are hundreds of air-traffic controllers across the world monitoring each and every plane. We cannot 
+scale this solution to an urban setting. Madison is a typical North American city, which the Panel 
+repeatedly stated their report focusses on, with a population of 250,000. Even if we assume ten 
+percent of the population adopted the technology, city should be prepared to handle 25000 flying 
+objects at a time. The obvious way to circumvent this problem is to develop technology so reliable 
+and secure to obviate air-traffic controllers and all the FAA regulations. That is highly improbable 
+in near term. To emphasize, there are only handful of states currently allowing auto companies to 
+test their self-driving technology on road. Society will be far more skeptical and anxious of flying 
+cars than they will be of self-driving cars. Uber and few other startups have started investing in 
+flying cars, but the technology is nascent. In my opinion, in a decade or so, a flying vehicle will 
+be analogous to a boat ride or a helicopter ride, but not mainstream. Whereas drone delivery is far more 
+certain to happen. One of the reasons being, an unintended drone crash would merely upset a customer 
+waiting for the delivery, instead of being fatal to everyone in the city.
+ 
+	In conclusion, infrastructure limitations and cultural factors will play a role in adoption, 
+or at least in its pace, of few technologies of AI in transportation.
+
+
+	

@@ -1,0 +1,38 @@
+	Research in Artificial Intelligence is accelerating faster than ever, opening new domains for AI to 
+interact. Advances in machine learning and neural networks has expanded problem sets and created 
+real world applications for previously theoretical models. Technology experts like Elon Musk and Nick 
+Bostrom have taken a strong stance against AI as it approaches human intelligence, but still we see Tesla 
+Motors (Musk’s company) using machine learning to develop self-driving cars. The largest technology 
+companies in the world are delving into AI to harness the power of this growing technology into their 
+own systems. Sandford University developed a report last year examining AI research and projections 
+for the next 15 years. The study panel responsible for the report put forth a multitude of ideas 
+addressing various problems posed by the development of Artificial Intelligence, however, these are 
+optimistic at best and reflect the theoretical limits of AI.
+	The report in question reads more like George Orwell than a real world evaluation. Flying cars 
+are briefly mentioned on page 7, preceding a comparison between personalized robots and the 
+Roomba. Over the past century, technology has developed exponentially and futuristic claims followed 
+but history has shown the optimism of such claims. Undoubtedly, the experts on the panel have an 
+understanding of Artificial Intelligence beyond my own, but may be blind to the impact of their claims.
+	For instance, the study panel defines health care as domain for AI growth. If say, a device is 
+invented to prescribe and administer medication autonomously, who profits from such a device? Some 
+trained professional is no longer needed, leading to an economic shift to provide fewer doctors. The 
+patient could be limited in their communication with the device, so any personal concerns about side-
+effects is ignored. By the definition of machine learning, the decision method for the device is beyond 
+the limits of human understanding of the problem, else hospitals would rather hire a doctor. Those who 
+truly profit are not directly impacted by the theoretical device. The hospital is able to save money while 
+the company responsible profits economically from the sale of their product. What incentive do either 
+party have to serve the populous when considering the adoption of the device? These questions are 
+severely lacking in the field thought to produce such things in as little as 15 years.
+	The Study Panel does create a few guidelines to aid the development of AI, but in 
+implementation are unfeasible. In one instance, they posit that government officials on all levels have an 
+adequate understanding of AI. If this was even possible, the education officials receive would be 
+outdated compared to the emerging technologies they review. Officials will answer questions that 
+cannot be conceived until the technology exists to ask such a question. How then, can one be trained to 
+answer questions in such broad domains as transportation, personal robots, healthcare, education, 
+public safety before they can be conceived?
+	We cannot presume to know the world in 15 years and what technology will take hold. We can, 
+however, reformulate our plan to develop Artificial Intelligence. Our society must develop specific laws 
+to test and gradually implement AI technologies so as to not create excessively dramatic shifts in 
+infrastructure or the economy that could collapse sectors of our country and lead down some 
+unforeseen path. We must react, as a society, to the impacts of AI to preserve a stable society which 
+supports itself, not just those with economic profit.

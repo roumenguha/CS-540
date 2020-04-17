@@ -1,0 +1,22 @@
+The article “Stanford One Hundred Year Study on Artificial Intelligence” defines Artificial Intelligence (AI) as developing intelligent systems that can think, act rationally and humanly. While the article beautifully gives us a comprehensive account of developments in Artificial Intelligence and predictions about the future, there are some assumptions which can be debatable. 
+
+Challenge Statement: The estimate of reliability in decision making to the human measure – Intelligent Systems should necessarily meet the thought process of humans to take over any human decision making tasks and intelligence in security for the deployment of AI applications.
+The challenge statement in a way contradicts on the ongoing research of AI applications, scheduled for (example: autonomous cars) or existing in (example: robots aided surgeries) the market especially in the areas of transportation, healthcare and education. The metrics listed in the challenge can become a major threat for the deployment of AI applications. 
+
+Reliability in HealthCare and Transportation Systems:
+Intelligence in HealthCare and Transportation systems demands 100% accuracy in drawing inferences. From the research we know that 302 neurons have been wired and studied so far while the brain has several billions of neurons wired. There is uncertainty in understanding at what level and how (many) neurons get involved in a decision making process. This shows computers are no way close to take over human decision making process and challenges the trust on robotic surgery.
+Secondly, it is important for the Intelligent Systems to understand the truthfulness of the dataset before learning. Electronic Health Record (EHR) takes roles of a listener and teller. Unlike autonomous cars, healthcare does not have rules or labels for drawing conclusions. Creation of comprehensive global guidelines is impossible as each patient will have different scenarios. Every patient is a different dataset and the system needs to learn, adapt and then act which is time consuming and expensive. Thus AI applications may widen the economic, social gaps among different classes of the society since not every person will be able to afford this facility. This in a way contradicts the objective of AI stated in the article. Robot aided surgeries might lead into issues due to lack of situation awareness or interaction of surgeons with the case. Instead more AI research in the area of low resource communities like urban planning, understanding the earth, and helping governing bodies will benefit the public more.
+AI Systems infer the data that is fed or manipulated from another system. Regulation of social policies is yet another challenge for AI deployment. There are no right choices for few scenarios. For example, responsibility of any accident caused by autonomous cars or who should sacrifice their lives in case of any emergency on roads has no definite answers. The responsible entity on the loss (if any) due to wrong inferences from EHR is also tricky.
+
+Reliability as validation:
+Validation or authorization of a person can become hard due to human-aware intelligent systems. Human-aiding robots can take the place of his/her owner and authorize transactions. In education systems, it will become hard for the professor to identify if the student completed assignments or the aiding agent.
+
+Network security: 
+It would have been good if the team “AI and Life in 2030” and the article had determined focus on developing intelligent systems for the security of data along with other domains. Scenarios like unknowing poisoning of data, breaking the network in real time can turn hazardous for applications like autonomous driving and healthcare analytics.
+Overall, I recommend developing human-aided or human assisting intelligent systems automated with morality rather than becoming or simulating humans.
+
+
+
+
+
+ 

@@ -1,0 +1,33 @@
+﻿  The first issue that I am challenging is centered on the idea of an AI system representing
+a corporation or person. According to the Stanford Study, there are “regulatory bodies
+in the United States, Canada, and elsewhere [which have set] conditions under which
+software can enter into a binding contract.” The problem that I see with this is that a computer
+does not “understand” in the same capacity that humans can “understand” in. You can
+try and simulate human thought process and problem solving all you want, but in its current state
+artificial intelligence simply can’t do it. A computer only reacts to its environment in the
+ways it’s told, and while it may possess the ability to learn from past processes, it still
+does not actually understand the underlying aspects of it.
+  So then if an AI system can’t understand the binding document it is signing, then
+I don’t think it should be signing them at all. The software technically makes its
+“own decisions”, but these decisions were originally encoded by a developer. I think that
+if the need were to arrive for a piece of software to enter into a binding contract, then
+the original developer should have to sign it. Basically, until we can emulate the human
+thought process almost perfectly, the role of representing corporation should be left to us.
+  I also want to talk on the topic of self-driving cars. One line that stuck out to
+me was this: “Self-driving cars will eliminate one of the biggest causes of accidental
+death and injury in United States, and lengthen people’s life expectancy.” I think that
+this statement is very generous in its analysis and is way too optimistic. In a perfect
+world, yes self-driving cars would fix all of our problems on the road. They would
+make travel completely safe and eliminate human error. But unfortunately it does not
+work that way and computers and other systems have problems. I think that everyone that has ever
+worked with any sort of electronics/computers knows that they can fail unexpectedly. And
+I think that one of the worst places for a computer to fail is going 70 mph down an
+interstate. I’m not saying that self-driving cars have no place in the world right now, but
+we need to be careful about how we approach it. I think that for the above statement to
+really be true, at least 95% of the cars on the road need to be self-driving and able to
+interact with each other
+  It’s also important to look at the legal aspect of self-driving cars. If a driverless car
+were to get into an accident with a human driven car and it was the driverless car’s fault,
+who would get the blame? Would it be the company’s fault? Or say there was a passenger in the car,
+would they be to blame for not trying to avoid the accident? It’s situations like this which
+make the implementation of artificial intelligence harder than it seems on the surface.

@@ -1,0 +1,27 @@
+In Stanford’s One Hundred Year of Artificial Intelligence, it is mentioned, under the Healthcare Robotics section under the Healthcare title, that 
+artificial intelligence will likely not automate a large section of work in hospitals or nurseries in the near future. The report argues that while 
+robots will definitely infiltrate the healthcare services, it will only do so by automating low-skill labor. The reason for this is that doctors practice 
+many duties which are too meticulous and precise for a robot to accurately replicate. However, this is not true, and we can see many examples in the 
+real world right now that prove that artificial intelligence has already significantly impacted the medical field.
+
+There are many technologies that are capable of emulating most of the work of doctors. Consider Watson, IBM’s artificial intelligence robot, which is 
+so advanced already that it is on par with a professional radiologist, a profession which nets an annual salary of $400,000. Machines like Watson are 
+capable of detecting diseases like Alzheimer’s a decade before any symptoms surface, with an accuracy that regular practiced doctors cannot match. Watson 
+can also predict what a patient is suffering from and create a pill with a certain combination of chemicals tailored for individual patients based on their 
+specific conditions. Many doctors do not do this because of the severity of a misdiagnosis, but Watson is capable of doing so very accurately.
+
+Consider a more specific case, like the treatment of early-stage cancer. It takes weeks to identify drugs which relate to cancer-causing symptoms in 
+patients, but Watson can do it in under an hour, and automatically points to scientific findings and past papers detailing treatments for similar cases. 
+Watson is also used extensively to test research hypothesis on immunotherapy, which uses the body’s own immune system to help combat cancer. 
+Because of this, it is much easier to conduct future research and saves a lot of time and money. Given a large test population’s current health conditions, 
+and a list of their previous medical histories, Watson was able to identify potential causes of cancer (such as genetic conditions and life-style choices) 
+which increases the likelihood of cancer.
+
+Robots are also taking over work performed by other medical professionals besides prescription doctors, such as those of surgeons. Many machines are now 
+many times more precise and proficient than veteran surgeons, and don’t require breaks in between nine-hour surgeries. These machines are set to enter 
+large-scale manufacturing in the coming years, and many experts believe they will likely enter the workforce in the next decade.
+
+Therefore, it is not accurate to state that artificial intelligence will play a minimal role in the healthcare sector in the next coming years. If 
+machines like Watson are any indication, artificial intelligence will not only be able to replicate much of a doctor’s work, but it will also be crucial
+ for the medical field, whether in research, intensive surgeries, or general prescriptions. As such, it is likely that many corporations in the healthcare 
+sector will invest in artificial intelligence to save time, money, and lives.

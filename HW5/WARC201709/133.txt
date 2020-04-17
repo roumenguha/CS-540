@@ -1,0 +1,26 @@
+﻿The Stanford One Hundred Year Study correctly identifies transportation as one of the first key domain in which humans will be required to interact with an AI system for accomplishing a critical task. They will be exposed to autonomous transportation and be required to trust the reliability and safety of the system in potentially life threatening situations.
+
+
+I wish to challenge the assertion the report makes stating that “as cars will become better drivers than people, city-dwellers will own fewer cars, live further from work…”. In my opinion, this claim is based on unwarranted, incorrect assumptions and also fails to account for other factors which might affect its verity. 
+
+
+With the advent of self-driving or autonomous cars in combination with current movement towards electrification of vehicles, the cost of ownership of cars is widely expected to decrease drastically, giving people the opportunity to own a car for a much lower cost which may actually lead to a rise in private vehicle ownership.  
+
+
+The current popularity of public transport, ridesharing and other on-demand transport services can be majorly attributed to the amount of time it saves the driver. As noted in the report, an average commuter in the US spends 25 minutes driving each way. Autonomous cars free the drivers to spend their commute time in more enjoyable and productive ways. This elimination of the need to drive combined with the privacy, comfort, luxury and convenience of a personal car will again promote private ownership of vehicles.
+
+
+Autonomous cars will also lead to increased mobility for kids and elderly people who currently can’t drive. This increase will be effected either by an increase in the number of private vehicles owned per family or an increase in the number of daily miles travelled by a car per family. Due to safety concerns, many households also prefer private transportation over public or shared transportation especially for kids.
+
+
+The report doesn’t account for the perpetual increase in population which will lead to an ever increasing demand for cars. The report might be expecting the need for private ownership to decrease as a result of the popularity of on-demand transportation services or carpooling and ridesharing. There is an expectation that on-demand transportation services will become so cheap that there is no incentive to opt for car-sharing services like UberPOOL.[1] As noted in the report, carpooling services like Zimride and Nuride have failed to be successful on a large scale.
+
+
+The increase in the number of private vehicles, miles travelled per car combined with adopting self-driving technology for delivery vehicles and running autonomous errands like grocery pickup will lead to an increase in traffic congestion. The traffic congestion will consequently inhibit people from living further from work as it will lead to an increase in commute time especially during rush hours in cases when spending a minimum time in the office is more beneficial.
+
+
+The report also fails to account for conditions which might arise when a combination of autonomous and conventional cars are being driven on the road. Eg: an unexpected action by a human driver might either slow down all the traffic behind him or a delayed reaction by the human may cause an accident. The behaviour of autonomous cars can be predicted with a very high degree of certainty but humans are unpredictable.[2]
+
+
+[1] Muoio, Danielle. “Self-Driving Cars Could Be Terrible for Traffic - Here's Why.” Business Insider, Business Insider, 4 June 2017, www.businessinsider.com/self-driving-cars-traffic-congestion-2017-6.
+[2] Lowy, Joan. “Self-Driving Cars Might Cut Costs but Make Traffic Worse, Researchers Say.”The Seattle Times, The Seattle Times Company, 16 May 2016, www.seattletimes.com/business/self-driving-cars-might-cut-costs-but-make-traffic-worse-researchers-say/.

@@ -1,0 +1,60 @@
+Challenge statement:
+The article is over optimistic on AI in transportation. It predicts that
+autonomous transportation will be commonplace in the near future just based 
+on limited information and underestimate the difficulty of self-driving.
+
+The paper lists many achievements such as GPS, ABS and TCS in the cars.
+They are huge progresses in the automobile industry, but it is hard to 
+link them with Artificial Intelligence. These techniques are all about
+sensing and controling. Even though sensing and controling can be 
+regarded as a kind of intelligence, it is relatively simple. 
+These functionalities can be implemented by determining some if 
+conditions and have nothing to do with complex analysis and reasoning.
+These functionalities are a success of control theory and sensing
+technologies, but not a success of AI.
+
+The real application scenes to demonstrate the power of AI are tasks like
+self-driving. It is much more challenging than GPS, ABS and TCS. The paper
+also mention the self-driving car techniques and show that Google's and
+Tesla's self-driving cars have logged 1.5 million miles with a few 
+disengagements. It also predicts that in the near future, advanced sensors 
+and sesning algorithms will surpass human's performance and cites a report
+saying self-driving cars will be widely adopted by 2020. 
+
+However, the information given are very limited to draw a conclusion that
+self-driving cars would become a reality soon. The paper does not research
+the challenges facing self-driving. From my perspective the most challenging
+problem is understanding the varying and complicated environments. There
+are many corner cases. Failing to handle them will cause the car to misbehave,
+which is extremely serious for the safety of the car. Also the self-driving 
+cars' vision systems needs to consider many factors, illumination, location,
+objects and distances. To my best knowledge, although the state-of-the-art
+computer vision algorithms outperform human in some benchmark dataset, there
+is no evidence showing that computer vision systems can perform as well as 
+human in reality. In fact, computer vision systems are sometimes easily 
+fooled by change of illumination, motions and some other conditions. 
+I do not know where the authors got the confidence that self-driving cars 
+will be achieved by 2020.
+
+Regarding the experiments of self-drving cars from Google and Tesla, even
+the self-driving cars performs excellently in the city road with zero 
+accident rates, there are many other terrain and road conditions. 
+Working well in cities does not necessarily mean it will also work in other 
+cases. Let alone there are crashes and disengagements in the city road 
+tests. Right now, Tesla's self-driving cars still needs human monitoring,
+which is far from the goal of self-driving.
+
+The authors strengthen on how advanced the sensors will be while focus 
+on how to tackling challenging AI problems, like objective 
+detections/tracking and scene analysis. They are on the wrong
+track. Self-driving cars cannot be implemented by just super-human
+performance sensing technologies. On the other side, it seems the
+authors conduct a careful research about the current bottlenecks in
+computer vision, or try to find a breakthrough. They underestimate 
+the difficulty of self-drivng.
+
+The authors also lists benefits of self-driving cars. Some of them 
+are not so harmonic with commensense need verifications, including
+lengthening people's life expectancy and eliminating the need to own 
+a vehicle due to car sharing. 
+

@@ -1,0 +1,66 @@
+CS540
+Homework 1
+				Healthcare and AI
+
+	The authors of the Stanford study have a rather optimistic outlook for AI in the
+next fifteen years. Indeed there are many reasons to be optimistic about the future of AI.
+The incredible pace at which computer science is progressing coupled with the ever
+increasing prevalence of sources of data leaves potential for AI to make a serious impact
+on society. Nonetheless, there many reasons to be cautious when make predictions about
+AI’s impact over the coming years. In particular, one should be cautious with making
+predictions about AI and healthcare, where there a serious obstacles posed by data
+gathering, regulation, and security. Ultimately, AI will continue to have an impact on
+society and healthcare but the authors of the Stanford Report are far too optimistic about
+AI’s potential in healthcare currently.
+
+	The first practical obstacle for AI in healthcare is the massive amount of data
+collection that would be required for any sort of system to be useful. This issue is
+addressed in the report when the authors mention that healthcare software is often
+substandard and dated (Stone et al. 26). These are certainly valid points, however it is
+far from the only problems with data collection. Healthcare software is implemented in a
+variety of programming languages, which means streamlining data to a central AI system is
+no small task. Furthermore, although there are standardized codes for ICD-9 and ICD-10,
+not all software uses them (Paulsen). Beyond this, there is the vast amount of information
+that is currently stored in patient records as unstructured text. The natural language
+processing needed to use this data is extremely complex and to be useful would need to be
+extremely accurate to make this a viable data source.
+
+	Even if there was infrastructure to make such data collection possible, there is
+still strict regulation of EHRs currently in place by HIPAA and healthcare privacy laws.
+This is also addressed by the authors to which they propose can be solved with policy
+change (Stone et al. 25). This too seems far too optimistic, as legislation lags behind
+technology more frequently than not. Making the changes which would allow for mass data
+collection in the next 15 years would be a serious challenge.
+
+	Finally, perhaps the most problematic aspect of their predictions and proposals is
+security. Integrating massive amounts of medical data would require creating a huge
+network which would be incredibly difficult to secure. Although not frequent, even some of
+the most well designed and secured networks get hacked (the NSA for example, which lead to
+“WannaCry” ransomware (Anderson)). To assume that this network would be invulnerable to
+attacks is completely unrealistic. Moreover, the consequences of this network being
+breached could be devastating to healthcare infrastructure.
+
+	In light of the obstacles which are present in implementing the use of AI in
+healthcare, it is quite clear that the authors of the Stanford Study are overly optimistic
+about the next fifteen years. The problems mentioned above are but a small subset of
+obstacles which need to be overcome in order to effectively use AI in healthcare data
+integration. Egro, while not impossible, we are still a long way off from seeing wide
+spread use of AI in healthcare data.
+
+
+					Works Cited
+
+Anderson, Ross. “Bad malware, worse reporting.” Light Blue Touchpaper, 	University of
+	Cambridge, May 13, 2017, www.lightbluetouchpaper.org/2017/05/13/bad-malware-worse-
+	reporting/. Accessed September 10 2017.
+
+ 2017.Paulsen, Derek M, and Jeff. “Optum Informational Interview.” 
+	21 Aug. 2017.
+
+Peter Stone, Rodney Brooks, Erik Brynjolfsson, Ryan Calo, Oren 	Etzioni,
+	Greg Hager, Julia Hirschberg, Shivaram Kalyanakrishnan, Ece Kamar, Sarit
+	Kraus, Kevin Leyton-Brown, David Parkes, William Press, AnnaLee Saxenian, Julie
+	Shah, Milind Tambe, and Astro Teller.  "Artificial Intelligence and Life in
+	2030." One Hundred Year Study on Artificial Intelligence: Report of the
+	2015-2016 Study Panel, Stanford University, Stanford, CA,  September
+	2016. Doc: http://ai100.stanford.edu/2016-report. Accessed: September 8, 2017.

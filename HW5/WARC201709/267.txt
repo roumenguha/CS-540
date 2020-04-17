@@ -1,0 +1,23 @@
+Self-Driving Cars
+	AI is expected to revolutionize the transportation domain in near future. Transport mechanisms that we couldn’t envisage previously may soon become a reality. A prime example is self-driving cars, which are intended to make human drivers obsolete and completely change the landscape of urban mobility. Stanford’s report ‘One Hundred Year Study on Artificial Intelligence’ claims that “As cars will become better drivers than people, city-dwellers will own fewer cars, live further from work, and spend time differently, leading to an entirely new urban organization”.  This claim however rests on many dubious assumptions, which may not necessarily hold true. I believe that self-driving cars, solely, will not change human lifestyle. It is humans who will have to change their lifestyle and implement systematic changes to society to be able to successfully incorporate self-driving cars into daily life.
+	The success of self-driving cars largely rests on the idea that people will no longer own vehicles and instead begin sharing them. Sharing vehicles will undoubtedly reduce number of cars on the road, make roads less congested, and reduce travel times. Traffic reduction will have many positive cascading effects such as reducing parking requirements, which will enable limited space to be used for better purposes and overall a new urban organization will result as the report predicts. However, the major question is will we share?  Car sharing programs have been present for a long time, yet the market for it is still relatively miniscule. This stat suggests that self-driving cars may continue being privately owned, which then completely refutes the idea that self-driving cars will bring a reduction in car numbers. In fact, car numbers and passenger miles may shoot up as people find these cars extremely convenient. Furthermore, it will also be cheaper to keep these cars moving instead of paying expensive parking in urban areas, which will further exacerbate congestion on roads. Increased congestion will dis-incentivize people to live far away from work.  Therefore, the emergence of self-driving cars, in these circumstances, will yield contradicting and unfavorable results relative to those touted by the report.
+	Another factor that may inhibit the emergence of self-driving cars, even if they perform better than normal cars, is the unemployment they may cause. The stigma and burden of increased unemployment will instigate the government to prevent self-driving vehicles from phasing out normal vehicles. Self-driving vehicles will negatively impact people who drive for a living, for example taxi drivers.  If self-driving vehicles substitute normal vehicles all at once, millions across the US would lose their job and with lack of access to re-training, may risk being unemployed for long periods. This event would greatly stoke up anti-AI sentiments among people and may create social unrest with so many people losing their livelihood. To prevent these ramifications, structural reforms are required. Scarce public funds may need to be used to re-train and re-integrate people who feel disenfranchised from society due to AI proliferation. Given budget restrictions, it is unlikely the government will be able to fund such programs and, therefore, will not allow self-driven vehicles to replace normal vehicles. The above works to debunk the premise of the report claim which is that self-driving vehicles will totally replace normal vehicles if cars become better drivers than humans.
+	The success of self-driving cars and AI rests on how flexible society is and is willing to be. In a rather rigid society like ours, it’s unlikely we will embrace ideas that disrupt and overhaul our entire societal structure. Therefore, in these circumstances, I think that introducing self-driving cars will not bring about changes claimed by the report.
+	
+	
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

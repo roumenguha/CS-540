@@ -1,0 +1,44 @@
+CS 540 sec 2
+Thoughts after reading Stanford One Hundred Year Study on Artificial Intelligence
+      After reading the article, there are many thoughts come to my mind. First of all, I must 
+say that this article is a very comprehensive report about the current status and future drafts of AI. 
+I agree with the discussion about the employment of AI in different areas. Some of the area we 
+have already heard every day through news like self-drive cars and home-service robots, but 
+others like the health-care system and education system truly refresh my understanding about the 
+future of AI application. But in the last part the article talks about the concern of AI 
+implementation which I cannot be agreed with. I think these problems will not be obstacles to the 
+improvement of AI and they can be solved easily. 
+      In the first part of the Policy and legal consideration, the author points out that states law 
+and the national law may have conflicts about the definition of autonomous vehicles and which 
+kind of autonomous car should be permitted to use. However, in my mind, this kind of conflicts 
+are very normal. Just like the law of using cannabis. Although federal law has explicitly pointed 
+out that it is illegal to use cannabis in any functions, still, in California and other 44 states, the 
+medical cannabis is still being permitted to use. Therefore I believe if the state residents support 
+the use of autonomous vehicles and other AI devices, it is easy to find a balance between federal 
+law and state law. 
+      In the next part, the author talks about the privacy issue that AI may bring. He illustrates 
+that when AI is making decisions and predictions, it may take private information like race into 
+consideration. However, in my understanding about AI technology, all the information that AI 
+can reach means that this information should be taken into decision making. In this way, the 
+decision and prediction can be most accurate and useful. If the user truly wants to take some 
+aspects out of consideration, then the program designer can design a user mode which let them 
+choose specific aspect they want to ignore. For instance, if the user wants to let AI skip the 
+influences of the race, he can tell AI about that before it makes the decision. After all, AI 
+algorithms are used to help people make decisions rather make decisions for people. The final 
+right is still being held by the human being.
+      Furthermore, the following part talks about the Liability of AI which I think is nonsense. 
+For civil aspect, if people do not intend to cause any harm, the AI self-protect system will 
+automatically prevent them from causing any damage to the society. The same idea applies to 
+guns. In America everyone has the right to hold guns but since there is a proper protection to 
+prevent people from hurting others unintentionally. We don’t need to worried about being killed 
+by others without purpose every day. In the future, I have the confidence that we can build well-
+designed protect system to avoid unintended damage. For a criminal, the same idea applies. 
+There is no doubt that at any time there are people want to cause harm. But this cannot be the 
+reason for us to stop developing new technology.  Though new technology may bring 
+unpredictable issues, human will gradually fix the issues and get huge benefits from new 
+technology. 
+      Other concerns being discussed in the report such as Labor and Taxation issues should 
+not stop AI from being applied as well. But due to the word limit, I am not going to discuss them 
+further. In conclusion, I believe all the concerns we predicted now will be solved during the 
+development of AI, and AI can truly bring benefits to human.
+      

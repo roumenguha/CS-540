@@ -1,0 +1,30 @@
+	The One Hundred Year Study on Artificial Intelligence makes some tenuous arguments, to say the least, on the readiness
+and efficacy of AI policing the populace within the next 15 years.
+
+	While the use of cameras to both solve and prevent crimes is widely prevalent today, it takes a leap of faith to assume 
+that within 15 years the typical North American city will have adopted some form of AI to manage all this data. For laws to have
+been passed to allow such systems to exist would mean that the public has approved of AI for some time, and for a 15-year
+timespan that doesn’t sound reasonable. Even if the technology were capable say 10 years from now to enable public opinion to
+change and then laws to be passed, there’s still the ethical dilemma that many in the public will face in whether or not they
+wish to exchange some part of their privacy for added security.  Based off the relatively recent events with the NSA spying on 
+the public, a lot of people are likely hesitant to agree to  the government constantly monitoring them via cameras and social
+media. 
+
+	The study’s assertions on AI preventing crime by profiling also proves troublesome. No matter how it’s sliced, such a 
+system would have some sort of bias that weights some behavior as more dangerous than other and as such targets certain groups
+of people. While profiling is near impossible to prevent no matter who monitors the data, if an AI is implemented the profiling
+will have a far greater reach. When first implemented it’d likely be used for additional screening at airports, however, a
+dangerous precedent could be set that could lead to a path of increasing pervasiveness of a police state. 
+
+	The implementation of AI that sorts through social media would also be very difficult. It’s challenging enough to pick 
+up intent based off of changes in intonation when someone is speaking, but telling the difference between seriousness and sarcasm
+from text only would be near impossible for AI. To allow an AI that struggles to detect such nuances to scan all this data to
+identify those at risk to potential terrorist groups or even those in terrorist groups is reckless. Not only that but it would be
+foolish to assume such a technology would forever remain exclusive to the state and if it fell into the hands of a group with ill
+intentions could prove disastrous. 
+
+	While AI poses a myriad of applications for maintaining public order, they’re likely still greater than 15 years in the 
+future. The more likely path to occur is within the next 15 years a policing AI could exist within an academic setting. From there
+studies would occur on the effectiveness of the AI versus a human police force and then the public would have to decide if the 
+technology has been ironed out enough and if the tradeoff in privacy for security is worth it. For a typical North American city
+like Chicago to then implement this system is likely at best 25 years away.

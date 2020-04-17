@@ -1,0 +1,16 @@
+Alex Eichstaedt
+Fall 2017
+CS540 - Section 2
+One Hundred Year Study on Artificial Intelligence Reflection
+
+Challenging AI timelines for Transportation Integration
+
+	Transportation, a major focus in the integration of Artificial Intelligence, “is likely to be one of the first domains in which the general public will be asked to trust the reliability and safety of an AI system for a critical task,” according to Stanford’s One Hundred Year Study on Artificial Intelligence. The study predicts by 2030 that AI technology will be integrated into trucks, planes, and drones, as well as cars for personal and commercial use. This prediction I find highly vague and challenge that it will take slightly longer for integrated personal use and less time for integrated commercial use.
+	
+	From my standpoint, Stanford’s study on AI ignores a large sector that will play a vital role in AI integration: the insurance industry. Although it is great to see on television “ AI test drives,” insurers will need adapt with the growing technologies and provide coverage plans for autonomous driving vehicles. This factor I believe pushes autonomous driving vehicles’ integration for personal use closer to 2040.
+
+	Who is liable in the event on an autonomous driving vehicle accident? How should insurers cover drivers that still wish to drive manually? What happens in the event of a major hack to these autonomous driving softwares - is the car useless? These are just three of an endless number of questions insurance companies will need to answer for people and businesses. The process will involve working with government, and I personally see that taking more time to iron out the legislation and regulations.
+
+	On the other hand, I see its prediction for commercial business use to be a bit pessimistic. Already in Michigan, semi-trucks have driven autonomously while carrying real cargo across the state. For companies that routinely make similar shipments and deliveries, I see them integrating AI use into the shipping industry within the next 5 years. Truck driving unions may slow its integration, but I see self-driving semi-trucks coming to our roads sooner than later. For example, Amazon is pushing the e-commerce industry into incorporating heavy drone use. I don’t see it taking long for them to incorporate into their business strategy moving product between warehouses autonomously.
+
+	In conclusion, the most difficult part of AI integration is earning “public trust.” As the study says, movies have portrayed AI technology as the end or evil. This is why I see it taking longer than by 2030 for the general consumer to trust autonomous-driving technology. One mis-calculated step, or one tragedy could doom the entire market and drain its investments. It will be crucial for companies to tirelessly test their technology. At the same time, simple tasks like transporting cargo in-state I see being incorporated into daily use relatively soon. AI integration will be a slow process, there’s no avoiding it. The key will be to introduce only the safest and easiest of its integrations first. 

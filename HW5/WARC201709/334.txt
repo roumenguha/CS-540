@@ -1,0 +1,44 @@
+﻿In most cases, "Artificial Intelligence and Life in 2030" approaches societal changes that may result 
+in North American cities from the advancement of artificial intelligence with little runaway speculation and
+ few outlandish assertions. However, there are several instances of speculation on the past and future effects 
+of artificial intelligence on entertainment media that stick out as a departure from the survey’s usual level-headedness. 
+Additionally, in the final policy proposals, the survey does not go far enough in demanding accountability for civil AI systems.
+
+
+ "Artificial Intelligence and Life in 2030" makes the the following 
+remark regarding the possible effects of the proliferation of digital entertainment
+ on human social interaction: “The enthusiasm with which humans have responded to 
+AI-driven entertainment has been surprising and led to concerns that it reduces 
+interpersonal interaction among human beings” (Stone 40).  "Artificial Intelligence and Life in 2030" 
+does not directly assert here that it agrees with this view’s proponents, but goes on to state: “Few predicted that
+ people would spend hours on end interacting with a display” (Stone 40). This comes across as an overstatement of the
+ role AI played in the initial adoption digital media. Widespread adoption of digital media existed long 
+before AI techniques were meaningfully applied to digital entertainment, and AI remains restricted to limited roles.  
+The question of how digital media consumption affects social interaction is not so much a question of AI’s
+ specific effect, but a question of how the quality of digital media affects individuals selection between
+ social and nonsocial activities. AI is only relevant in the sense that it may affect the quality and 
+availability of digital media.  It has not been shown that artificially intelligent systems are capable of
+ providing a meaningful and complete surrogate to human socialization. Additionally, interacting with digital systems for entertainment or leisure is often 
+a social activity, and AI applied to the realm of affective computing may actually increase the fidelity with which emotional
+ intent is transmitted to other individuals. This may increase the quality and availability of social experiences, 
+rather than detracting from them. 
+
+
+While the second policy goal, outlined in "Artificial Intelligence and Life in 2030" , provides an elegant starting 
+point to ensure artificial intelligence has a positive and fair impact on society in both the public and private sectors,
+ it fails to deliver an explicit standard of transparency for public sector AI. This could be rectified by extending the second policy
+ goal to suggest that all intelligent systems used in governmental non-military applications are required to be open-sourced to the public.
+ This could help to protect against hidden biases in applications such as classification and prediction systems that make decisions directly
+affecting individuals, based on information about the individuals. Applications where transparency is critical include 
+conviction, sentencing, and financial aid allocation. A open decision making system is a vital part of the 
+democratic process, and remains so even when such decisions are made by non-sentient intelligent systems.
+
+
+Works Cited
+
+
+1. Peter Stone, Rodney Brooks, Erik Brynjolfsson, Ryan Calo, Oren Etzioni, Greg Hager, Julia Hirschberg, 
+Shivaram Kalyanakrishnan, Ece Kamar, Sarit Kraus, Kevin Leyton-Brown, David Parkes, William Press, AnnaLee 
+Saxenian, Julie Shah, Milind Tambe, and Astro Teller.  "Artificial Intelligence and Life in 2030." 
+One Hundred Year Study on Artificial Intelligence: Report of the 2015-2016 Study Panel, Stanford University,
+ Stanford, CA,  September 2016. Doc: http://ai100.stanford.edu/2016-report. Accessed:  September 6, 2016.

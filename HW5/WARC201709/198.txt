@@ -1,0 +1,28 @@
+	As stated in the 100 Year Study, I don’t believe AI will be successful in removing forms of bias or malpractice within policing as soon as 2030, 
+and may even be a tool to rationalize human bias when attempting predictive policing.
+
+The first part of my criticism of the 2016 Stanford One Hundred Year Study Report is that I disagree with the plausible implementation of an AI system self monitoring police malpractice, 
+until increased support of such systems from police departments increase. The report states that AI may be “better for [assisting] crime prevention and prosecution” by better accurately 
+being able to automatically classify events within a video, possibly helping provide “evidence of police malpractice” (p. 36).While I do believe that the technology can be created, 
+I think that implementation of this is unlikely due to police departments being slow in implementing any form of self monitoring system such as body cameras. In 2015, “only 18% of agencies
+ considered their body cameras ‘fully operational”, according to a survey of 70 law enforcement agencies conducted by the Major Cities Chiefs Association and Major County Sheriffs’ Association 
+in 2016. This slow implementation of an old technology helps better provide context into the speed of implementing such police malpractice monitoring systems. According to a 2016 Huffpost article
+ titled “Police Body Cameras Aren’t Helping You”, police unions “are demanding more cash if officers are forced to wear cameras, citing higher stress levels and (increasing) complexity of the job
+ when an officer is being monitored.” Because of the lack of police union or department support for body camera implementation, it unlikely that they will support, let alone voluntarily provide 
+funding for an AI software monitoring and criticizing their actions instantaneously. For this reason, I don't believe that Police departments or State/Federal governments will choose to implement
+ AI in this way by 2030, with perhaps the exception of a few democratic city legislatures. It would require much more inter-departmental support of body cameras before the next step of involving an AI is implemented.
+
+Secondly, in the One Hundred Year Report, it is suggested that AI may be capable of helping remove “some of the bias inherent in human decision making” when pertaining to policing (p.36). 
+While I think that it can be done before 2030, it will be extremely difficult to exclude bias from any part of the AI, whether it be predictive policing computations, or humans interpretations of
+ the AI’s conclusions. Here, I won’t discuss AI reacting to biased police, as it covers similar issues discussed in my previous paragraph. Instead, I hope to attack the idea of effectively removing
+ bias by replacing police discretion with AI discretion. My first concern is that the AI itself will be biased, and may even discover new forms of biases (something not raised in the 100 Year Study). 
+ProPublica’s 2016 report titled Machine Bias discusses the  dangerous racism predictive policing AI can have and the One Hundred Year Study is very aware of this. The question then becomes, ‘do we hard 
+code the AI to be blind to race?’. If that is indeed the solution, it seems unlikely will we be able to hard code the AI to ignore every form of prejudice. And if we do, then what information is the AI left
+ with to make decisions. If hard coding isnt the solution, then how do we give the AI a sense of wrong and right when it comes to determining who it is ok to police/ make assessments on. This seems to be the
+ likely response, but a much more difficult one that I don't see us being able to confront by 2030 as discussed in the 100 year study. My second concern is that even if we are able to create unbiased
+ predictive policing AI, how will humans interpret the information. It could be that a secondary non apparent trait leads the AI to unproportionally target a minority even when not being biased toward
+ that minority. This conclusion from an ‘unbiased AI authority’ could feed human bias and rationalize bigotry.
+
+In conclusion, I believe there to be many more difficult issue surrounding AI’s use in combating police bias that were not mentioned in the 100 Year Study. These issues, the lack of accepting self monitoring,
+ the difficulty making an unbiased AI, and the worries of how humans might accept an AI’s conclusion, will more than likely delay AI in this fassett beyond 2030 and pose worry some threats, that while avoidable
+ are definitely something to be wary of.

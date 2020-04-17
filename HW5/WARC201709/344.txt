@@ -1,0 +1,48 @@
+    In a field as new as artificial intelligence, it is expected to have a long list
+of unanswered questions both technical and ethical. Although artificial
+intelligence likely will benefit society in many ways, it is impossible to tell
+whether the application of these technologies will be a net positive or a
+negative to society. The Stanford One Hundred Year Study suggests that as
+artificial intelligence improves and proper government regulation is put in
+place, the transportation problems in cities will be largely reduced. In some
+cities, this is likely to be the case however, the study fails to acknowledge
+that some of the world’s largest and busiest cities do not have the road
+infrastructure in place that would be necessary to truly leverage new artificial
+intelligence technology assuming it functions to an acceptable standard.
+    New York city is a city that is overpopulated. The public transportation system
+is overwhelmed by both tourists and daily commuters. Often, people would have to
+wait on the platform for the next subway train to arrive as the previous train
+would only be able to hold half the people waiting on the platform. This forces
+many people to hire taxis to quickly travel throughout the city. If self-driving
+cars were driving on the streets of Manhattan, New York’s overcrowded
+infrastructure would still be far from solved. Perhaps, instead of calling a
+taxi, people would be able to call their own car to drive them whether they must
+go, but the logistics of having so many cars in the city is a problem that
+cannot be ignored. The current infrastructure is bad and put simply, New York is
+not a car friendly city. Whether the cars are self-driving or not does not
+change the fact that New York has trouble supporting automobiles.  Another city
+infrastructure issue is parking and even with advances in artificial
+intelligence, parking will remain an issue. A possible solution to the
+overabundance of cars in Manhattan could be ride sharing but as the study
+mentions, ridesharing applications have failed to gain traction.
+    Saint Petersburg, Russia is another example of a city that would struggle to
+benefit from adopting self-driving cars into their city infrastructure. Because
+Saint Petersburg is a network of five districts that are separated by canals,
+cars must drive over bridges to travel between the districts. Due to ship
+traffic in the canals, the bridges all rise early in the morning. This
+creates a massive logistical problem for the free movement of autonomous
+vehicles. What are the vehicles expected to do during the window that the
+draw bridges are open? Surely they cannot be expected to park and wait
+until the bridges open as that would be horribly inefficient. What happens
+if many of the cars are stuck on one island and can’t be summoned for a
+ride for a few hours? These are questions that must be answered before
+this technology can benefit the city infrastructure and reduce overall
+traffic while increasing transportation efficiency.
+    As the technology continues to advance in artificial intelligence, we need
+to focus on how we will effectively apply the new technology so that
+society can reap the benefits. It is difficult to predict how artificial
+intelligence will fit in our society but with proper planning, it likely
+will be net positive. While the Stanford One Hundred Year Study
+illustrates many applications for artificial intelligence in a variety of
+industries, it fails to address that issues associated with city
+infrastructure are complex problems that will not be easily fixed.

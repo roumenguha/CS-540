@@ -1,0 +1,18 @@
+CS 540
+Jerry Zhu
+Due Date:9/13/17
+
+Are self-driving cars really safe?
+
+AI, namely, artificial intelligence, is very popular recently. The definition can be traced back to Nils J. Nilsson who said that artificial intelligence is to make machines smart to the extent that they work properly. One of its future predicted function is to become drivers which will change ways of transportation dramatically. Some people argue that cars will drive without instructions from human in a much better way human driver cannot even imagine. Automated function includes Intelligent Parking Assis System, Summon, Late departure system and the latest one, Lane changing on highway. It seems like there is great leap under the development of artificial intelligence. Self-driving cars are made possible with help of AI. For example, Google’s autonomous vehicle drives on the streets now without any human interruption. 
+
+It is for sure that many companies are researching on this new technology with AI, just like Google and Tesla. However, some may doubt whether such automated driving cars can be put into market due to lack of security, both online and offline. It is dangerous when one sit in a car which cannot be 100 percent safe. Passengers are even exposed to many hackers behind the network, who could have control of the car. It is not hard to imagine what will happen if self-driving car is a reality with such poor security system.
+
+Self-driving cars, as mentioned in Stanford One Hundred Year Study on Artificial Intelligence, may not be safe when you get into a car crash with a truck or any other vehicles. Driving is a very complex issue that can cause huge trouble to drivers and passengers under unexpected circumstances. These situations will also frighten the car itself, making it anxious yet know nothing it could do to save life of people in it. There are many dangerous factors that are hard to consider when computer programmers design the self-driving car, such as pedestrians, traffic light and bikes. It is not easy to deal with various objects on the road, both moving and stilled. Although some raw models exist early in 2000, it is still a challenge for researchers that still needs a long time to solve. 
+
+It is also easily hacked by computer programmers who have a bad idea. As it is known, there are many cameras on the car which work as sensors, helping computer to decide which direction and lane to go to. It is a necessary part of self-driving cars yet it can cause influential problem. Imagine if anyone trespass the secure wall and being able to see your cameras, your behavior, and even know where you live and work. No one is sure what these backstage manipulators will do. That is horrible for the public that they are living under surveillance of everyone. If these downsides of advanced AI technology is not overcome, people should not put such self-driving cars into use.
+
+Indeed, if many people adopted self-driving cars, it would be time-saving on the road such as no more needs to search for a parking lot. It also saves money to not buy a car but instead use public AI-powered smart self-driving cars. These cars may be very useful to humans one day but that is probably going to be far in the future since we are just at the beginning of putting this technology into use and have many fields not fully understood. Researchers should not forget to come up with a good solution of security problem and ensure users to move safely on the road. Only when public safety is maintained should it be authorized to the public.
+
+Reference:
+Stanford One Hundred Year Study on Artificial Intelligence. AI 100 Standing Committee and Study Panel. https://ai100.stanford.edu/2016-report
